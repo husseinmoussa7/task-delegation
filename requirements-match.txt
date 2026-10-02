@@ -1,0 +1,10 @@
+# Extras for src/embed_and_match.py only - recomputing the deployment scores
+# from the raw task text. Costs OpenAI API calls and needs OPENAI_API_KEY.
+#
+# After installing, fetch the spaCy model:
+#     python -m spacy download en_core_web_sm
+
+-r requirements.txt
+openai>=1.0
+spacy>=3.7
+python-dotenv>=1.0
