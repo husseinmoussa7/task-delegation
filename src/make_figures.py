@@ -68,7 +68,9 @@ def figure_2_occupation():
     ax.set_yticklabels(labels, fontsize=10)
     ax.tick_params(axis="y", pad=6)
 
-    ax.set_xlim(0, float(vals.max()) + 0.02)
+    # Headroom past the longest bar for its value label, which is drawn at the
+    # bar end in data coordinates and so extends beyond it.
+    ax.set_xlim(0, float(vals.max()) + 0.08)
     ax.set_xlabel("Proportion of Tasks with AI Agent Deployment", fontsize=9)
     ax.set_ylabel("Occupation", fontsize=9)
     ax.spines[["top", "right"]].set_visible(False)
@@ -85,8 +87,9 @@ def figure_2_occupation():
             fontweight="bold",
         )
 
-    # 70% of the width is given to the occupation labels, which are long.
-    fig.subplots_adjust(left=0.70, right=0.98, top=0.95, bottom=0.10)
+    # 70% of the width is given to the occupation labels, which are long. The
+    # right margin leaves room for the value labels at the bar ends.
+    fig.subplots_adjust(left=0.70, right=0.94, top=0.95, bottom=0.10)
     out = FIGURES / "occupation_task_replacement_openai.png"
     fig.savefig(out, dpi=300, transparent=True)
     plt.close(fig)
