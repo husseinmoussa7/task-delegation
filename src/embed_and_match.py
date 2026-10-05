@@ -9,9 +9,12 @@ for example against a different provider corpus or a newer embedding model.
 
 What it does, following task_3_embed_dist_openai.ipynb:
 
-  1. Clean every O*NET task and every provider task description with spaCy -
-     drop stopwords, punctuation, digits and tokens of two characters or fewer,
-     then lowercase.
+  1. Take the task text as-is. The source notebook defines a spaCy cleaner
+     (stopwords, punctuation, digits and very short tokens removed, lowercased)
+     but disables it - "do not clean the text for now" - and embeds the raw
+     text. The committed cleaned_task column is a verbatim copy of Task, which
+     confirms it. Pass --clean to apply the cleaner instead; the scores will not
+     match the committed ones if you do.
   2. Embed both sides with OpenAI text-embedding-3-large.
   3. For each O*NET task, take the cosine similarity against every provider
      description; keep the best one as `best_match` / `best_match_score` and the
@@ -19,6 +22,7 @@ What it does, following task_3_embed_dist_openai.ipynb:
 
 Embeddings are cached to .cache/*.pkl, so a re-run costs nothing after the first.
 """
+import argparse
 import os
 import pickle
 import sys
@@ -60,21 +64,25 @@ def get_embeddings(client, texts, cache_path):
 
 
 def main():
+    ap = argparse.ArgumentParser(description="Recompute the deployment scores.")
+    ap.add_argument("--clean", action="store_true",
+                    help="apply the spaCy cleaner (the original run did not)")
+    args = ap.parse_args()
+
     if not os.getenv("OPENAI_API_KEY"):
         sys.exit(
             "OPENAI_API_KEY is not set. Copy .env.example to .env and fill it in, "
             "or export the variable. See README."
         )
     try:
-        import spacy
         from openai import OpenAI
     except ImportError as e:
-        sys.exit(
-            f"{e}. This script needs the optional extras: "
-            f"pip install openai spacy && python -m spacy download {SPACY_MODEL}"
-        )
+        sys.exit(f"{e}. Install it with: pip install openai")
 
-    nlp = spacy.load(SPACY_MODEL)
+    nlp = None
+    if args.clean:
+        import spacy
+        nlp = spacy.load(SPACY_MODEL)
     client = OpenAI()
 
     onet = pd.read_csv(ONET_TASKS)
@@ -82,9 +90,14 @@ def main():
     print(f"O*NET tasks: {len(onet)} | provider descriptions: {len(providers)} "
           f"({providers['service_name'].nunique()} services)")
 
-    print("cleaning text...")
-    onet["cleaned_task"] = [clean_text(nlp, t) for t in onet["Task"]]
-    providers["cleaned_task"] = [clean_text(nlp, t) for t in providers["task_involved"]]
+    if nlp is None:
+        print("using raw task text (as the original run did)")
+        onet["cleaned_task"] = onet["Task"]
+        providers["cleaned_task"] = providers["task_involved"]
+    else:
+        print("applying the spaCy cleaner (scores will differ from the committed ones)")
+        onet["cleaned_task"] = [clean_text(nlp, t) for t in onet["Task"]]
+        providers["cleaned_task"] = [clean_text(nlp, t) for t in providers["task_involved"]]
 
     print("embedding provider descriptions...")
     emb_p = get_embeddings(client, providers["cleaned_task"].tolist(),
