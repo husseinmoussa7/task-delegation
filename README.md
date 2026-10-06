@@ -53,7 +53,7 @@ All parameters live in `src/config.py`.
 data/
   Marketing_Sales_Tasks.csv                   605 O*NET tasks, 31 occupations, 4 sub-clusters
   ai_agent_task_solved_summary_combined.csv   provider task descriptions
-  agent_task_best_matches_openai_mkt.csv      the 605 tasks with deployment scores (analysis input)
+  agent_task_best_matches_openai_mkt.csv      the 605 tasks with scores and O*NET 31.0 designations
   thematic_categories.csv                     Table 1 category names
   provider_descriptions.csv                   Appendix B provider inventory
 src/
@@ -93,21 +93,17 @@ cached under `.cache/`, so a second run is free.
 
 ## Optional: apply a newer O*NET release
 
-O*NET updates task statements and their Core/Supplemental designations on a
-rolling basis. To map the designations from a newer release onto the existing
-scores:
+Task designations in `agent_task_best_matches_openai_mkt.csv` come from O*NET
+release 31.0. To re-apply them from a different release:
 
 ```bash
 # "Task Statements.txt" comes from the text bundle at onetcenter.org/database.html
 python src/refresh_onet.py --task-statements "/path/to/Task Statements.txt"
-
-TASKDEL_SCORES=data/agent_task_best_matches_openai_mkt.onet31.csv \
-    python src/make_figures.py
 ```
 
-Results for O*NET 31.0 are committed: the mapped scores as
-`data/agent_task_best_matches_openai_mkt.onet31.csv` and the resulting figures
-under `figures/onet31/`. The figures in `figures/` remain the default.
+Deployment scores depend only on task text, which is unchanged across the
+releases checked, so a designation update does not require re-scoring. It
+changes which tasks pass the Core filter and therefore enter each average.
 
 ## Provenance
 
