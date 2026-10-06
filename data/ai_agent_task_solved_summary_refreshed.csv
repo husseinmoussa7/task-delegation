@@ -1,0 +1,751 @@
+service_name,task_involved
+GPT Nexus,Research companies and craft tailored sales pitch presentations using PowerPoint.
+GPT Nexus,Search and validate business emails based on names or company information.
+GPT Nexus,Gather and analyze recent news about companies or individuals for business insights.
+GPT Nexus,Identify peer companies and competitors to support strategic positioning and analysis.
+GPT Nexus,Locate LinkedIn profiles of companies and their employees for business development.
+GPT Nexus,Conduct structured interviews and candidate assessments using scripted workflows.
+GPT Nexus,Retrieve and manage candidate contact information and interview process details.
+GPT Nexus,Research competitors and design Facebook advertisements based on competitive insights.
+GPT Nexus,Scrape and analyze Facebook ads and Instagram profiles from company pages.
+GPT Nexus,Generate custom images for use in social media advertising campaigns.
+GPT Nexus,Compile business intelligence reports by researching company data and market context.
+aiXplain,Analyze business data using natural language queries to generate operational insights and recommendations.
+aiXplain,Monitor multilingual media channels in real time to track sentiment and spot market trends.
+aiXplain,"Automate RFP discovery, proposal writing, and submission processes to improve efficiency and win rates."
+aiXplain,Design and deploy AI agents using pre-built agentic components for faster development and performance optimization.
+aiXplain,Create multi-step execution plans to solve complex problems using AI planning agents.
+aiXplain,Match business assets with suitable use cases through automated criteria-based selection.
+aiXplain,Develop AI agent solutions from text descriptions using intelligent architect agents.
+aiXplain,Coordinate multiple agents and route tasks to the appropriate large language models.
+aiXplain,Ensure process and output compliance through quality inspection agents.
+aiXplain,Protect sensitive business data using access control agents and regulatory compliance enforcement.
+aiXplain,"Automate translation of complex documents with context-aware, terminology-validated AI agents."
+AirOps,Create on-brand marketing content using AI combined with human oversight and brand guidelines.
+AirOps,Refresh and optimize website content based on real-time SEO performance data and competitor insights.
+AirOps,Develop data-driven content strategies using AI to analyze search trends and market opportunities.
+AirOps,Automate creation of curated e-commerce collections based on product relevance and seasonal demand.
+AirOps,Generate SEO-optimized content for e-commerce and blog pages with consistent brand alignment.
+AirOps,"Automatically categorize and tag products by age range, occasion, or learning skills for better discovery."
+AirOps,Generate and maintain optimized product detail pages at scale to improve search visibility.
+AirOps,Streamline content operations by integrating content workflows directly into CMS platforms like Shopify or Webflow.
+AirOps,"Produce meta titles, descriptions, and structured content aligned with SEO best practices."
+AirOps,Improve traffic and engagement by updating large-scale blog and tools content with automated workflows.
+AirOps,Reduce manual labor and errors in product curation and description creation for large retail catalogs.
+AirOps,Maintain editorial quality across high-volume content using style and tone guidelines with human oversight.
+Beam AI,Handle customer subscription requests and account updates.
+Beam AI,Respond to inquiries regarding order status and tracking.
+Beam AI,Manage and process product return and exchange requests.
+Beam AI,Coordinate appointments and scheduling for customers.
+Beam AI,"Extract and process sales order, invoice, lab, and medical report data."
+Beam AI,"Categorize incoming emails, forward them appropriately, and send automated replies."
+Beam AI,Schedule interviews and manage candidate appointment logistics.
+Beam AI,Perform data entry tasks including catalog updates and document extraction.
+Beam AI,"Manage billing inquiries, renewals, and support for subscriptions."
+Beam AI,"Send payment reminders, process payments, and monitor financial transactions."
+Beam AI,"Manage loyalty programs, process customer feedback, and handle FAQs."
+Beam AI,Check inventory levels and update product catalogs.
+Beam AI,Generate sales proposals and verify vendor credentials for procurement tasks.
+Beam AI,Process supply chain tasks such as order processing and fulfillment.
+Beam AI,List and quality-assure new products for digital storefronts.
+Beam AI,"Draft and format RFP responses, review documents, and check compliance."
+Beam AI,Collect and curate content for social media channels.
+Beam AI,Create SEO-optimized content and extract ID or document data for marketing purposes.
+Conversica,"Increase lead volume, velocity, and quality through two-way conversational engagement."
+Conversica,Deliver personalized one-to-one marketing at scale to improve ROI and maximize marketing spend.
+Conversica,Automate creation and delivery of personalized email campaigns to reduce team workload.
+Conversica,Use customer insights across platforms to deliver hyper-personalized marketing content.
+Conversica,"Engage, validate, and qualify inbound leads through tailored conversational experiences."
+Conversica,Scale outbound sales outreach with AI-powered assistants to warm up accounts and boost conversions.
+Conversica,Automate initial outreach to early-stage leads and discover sales-ready opportunities.
+Conversica,Reactivate dormant leads through AI-driven personalized conversations.
+Conversica,Free up sales team capacity by automating repetitive lead engagement activities.
+Conversica,Monitor customer usage trends and collect feedback to enable proactive engagement.
+Conversica,Drive customer advocacy and retention through continual communication and onboarding support.
+Conversica,Generate interest and reactivate demand via AI-driven marketing campaigns.
+Conversica,Promote events and cultivate leads through personalized outreach.
+Conversica,Upsell and cross-sell to existing customers using AI-generated touchpoints.
+Conversica,"Engage fans, win back former ticket buyers, and generate new interest through pre-event outreach."
+Conversica,Use website chat agents to reactivate unresponsive visitors and convert them into sales leads.
+Conversica,Identify hidden value in dormant or early-stage leads using autonomous AI outreach.
+Conversica,Deliver a personalized touch to large volumes of leads through AI-crafted messaging.
+Conversica,Support digital marketing transitions by replacing in-person interactions with AI-driven engagement.
+Conversica,Increase marketing-to-sales lead conversion by qualifying contacts before handoff.
+Dify,Assist customers in creating visually appealing SVG logos using generative AI tools.
+Dify,Provide personalized and comprehensive YouTube channel data analysis to optimize content strategy.
+Dify,Offer tailored travel consulting services to create customized travel experiences.
+Dify,Deliver in-depth stock and investment analysis reports for customer decision-making.
+Dify,Generate flat-style illustrations based on customer-provided concepts or themes.
+Dify,Create cyberpunk-style illustrations using provided visual elements and preferences.
+IBM watsonx.ai,"Provide continuous customer assistance using AI chatbots for FAQs, troubleshooting, and order tracking."
+IBM watsonx.ai,Resolve customer issues using NLP and ML to understand context and escalate complex cases to human agents.
+IBM watsonx.ai,Analyze customer behavior to qualify leads and deliver tailored product or service recommendations.
+IBM watsonx.ai,Automate marketing follow-ups and adjust strategies based on real-time customer insights.
+IBM watsonx.ai,"Suggest personalized products, send promotional offers, and re-engage customers who abandon carts."
+IBM watsonx.ai,"Automate routine operational tasks such as data processing, document verification, and workflow execution."
+IBM watsonx.ai,Monitor and improve workflows by identifying bottlenecks and recommending optimizations.
+IBM watsonx.ai,"Support administrative operations by automating onboarding, account setup, and orientation scheduling."
+IBM watsonx.ai,"Manage healthcare schedules, send medication reminders, and provide basic medical guidance."
+IBM watsonx.ai,Conduct symptom checks and monitor health metrics to support remote patient care and alert providers.
+IBM watsonx.ai,"Forecast demand, manage inventory, and plan delivery routes using predictive analytics."
+IBM watsonx.ai,Optimize logistics operations with AI-driven route planning based on traffic and weather data.
+Botsonic,Engage customers with personalized recommendations.
+Botsonic,"Provide support and upsell services across web, mobile, and social media."
+Botsonic,Expand market reach with multilingual sales support.
+Botsonic,Reduce operational costs by up to 60%.
+Botsonic,Automate and streamline the shopping experience on any platform.
+Botsonic,Generate high-quality leads through intelligent interaction.
+Botsonic,"Act as a virtual guide for students, enhancing the student experience."
+Botsonic,"Provide real estate agents with tools for property details, viewings, and buying advice."
+Botsonic,"Enhance patient care by providing treatment info, scheduling appointments, and managing prescriptions."
+Botsonic,Revolutionize online shopping with personalized product recommendations and post-purchase support.
+Botsonic,"Deliver a tailored concierge experience for guests, managing bookings and FAQs."
+Botsonic,Provide real-time itinerary adjustments and local insights for travelers.
+Botsonic,Automate advanced tasks like refunds and cancellations.
+Botsonic,Provide multilingual support in over 50 languages across various channels.
+Botsonic,Integrate with business systems like HubSpot and Salesforce for seamless API connectivity.
+Botsonic,"Use simple, conversational language to train AI."
+Botsonic,Define data access and usage to streamline tasks.
+Botsonic,Automate complex processes to enhance efficiency with minimal human intervention.
+Clay,Flag fraudulent domains
+Clay,Summarize job posts or financial documents
+Clay,Create lead scoring models
+Clay,Clean and format data
+Clay,"Enrich SMBs like hotels, restaurants, auto shops, etc."
+Clay,Track and act on key customer events in real-time
+Clay,Reach out to customers whoâ€™ve changed jobs
+Clay,Congratulate customers on promotions
+Clay,Build lists of companies that just raised funding
+Clay,Email prospects based on new product news
+CrewAI,Market Research Enhancement
+CrewAI,Customer Sentiment Analysis
+CrewAI,AI for Market Dynamics Analysis
+CrewAI,AI-Enhanced Brand Positioning
+CrewAI,Predictive Marketing Campaigns
+CrewAI,Data Enrichment for Marketing
+CrewAI,Content Production Scaling with AI
+CrewAI,Marketing Analytics
+CrewAI,Personalized Marketing
+CrewAI,Content Generation
+CrewAI,Content Translation
+CrewAI,Image Improvement
+CrewAI,Context-Aware Marketing
+CrewAI,Customer Segmentation
+CrewAI,Lead Scoring
+CrewAI,Brand Reputation Management
+CrewAI,Social Media Sentiment Analysis
+CrewAI,Automated A/B Testing
+CrewAI,Automated Content Distribution
+Dynamics,Help sellers focus on building customer relationships to close deals faster.
+Dynamics,Research and prioritize inbound leads in the sales pipeline.
+Dynamics,Develop personalized sales emails to initiate sales conversations.
+Dynamics,"Automate the order intake process, from entry to confirmation, by capturing customer preferences."
+Dynamics,"Optimize processes in finance, procurement, and supply chain to minimize costs and accelerate decision-making."
+Dynamics,Manage supplier collaboration to confirm order deliveries and preempt delays.
+Dynamics,"Automate tasks related to confirming purchase orders in procurement, allowing professionals to focus on strategic tasks."
+Dynamics,"Prepare and cleanse data sets for financial reporting, reducing time spent on labor-intensive processes."
+Dynamics,Automate the matching and clearing of financial transactions to speed up the financial close process.
+Dynamics,"Track time, manage expenses, and approve workflows to prevent revenue leakage and ensure project budgets are met."
+Dynamics,Transform customer experiences across self-service and human-assisted service.
+Dynamics,Continuously discover new customer intents from past and current conversations.
+Dynamics,"Update knowledge articles by analyzing case notes, transcripts, and other data sources."
+Dynamics,Automate case management tasks throughout the case lifecycle to reduce handle time.
+Dynamics,"Optimize scheduling for service technicians, considering changes like traffic delays or cancellations."
+Dynamics,Learn and address new and emerging customer service issues via self-service channels.
+Google Cloud Vertex,Develop automotive speech-command solutions with conversational AI.
+Google Cloud Vertex,Integrate virtual assistants in vehicles for intent recognition.
+Google Cloud Vertex,Enable conversational search and navigation in vehicles.
+Google Cloud Vertex,Enhance online storefronts with AI-powered smart sales assistants.
+Google Cloud Vertex,Create real-time adaptive billboard campaigns based on neighborhood data.
+Google Cloud Vertex,Provide delivery success confidence scoring for logistics.
+Google Cloud Vertex,Build virtual assistants for vehicle apps to support customer queries.
+Google Cloud Vertex,Analyze vehicle dashboard inputs using smartphone cameras and multimodal AI.
+Google Cloud Vertex,Monitor emotional tone and detect hostile language in transportation audio.
+Google Cloud Vertex,Automate marketing campaign content creation and social media posts.
+Google Cloud Vertex,Draft job descriptions and proofread internal content across teams.
+Google Cloud Vertex,Enable factory workers to build and deploy ML models to boost productivity.
+Google Cloud Vertex,Summarize and surface customer communication for service representatives.
+Google Cloud Vertex,Provide AI coding assistance for enterprise software teams.
+Google Cloud Vertex,Create digital twins for industrial planning using AI simulations.
+Google Cloud Vertex,Build AI-driven ecommerce fulfillment solutions.
+Google Cloud Vertex,Generate real-time fleet and transportation analytics from vehicle data.
+Google Cloud Vertex,Model logistics scenarios and manage supply chain operations with AI.
+Google Cloud Vertex,Classify road objects for autonomous vehicles using vector search.
+Google Cloud Vertex,Scale geospatial AI modeling for large terrain analysis.
+Google Cloud Vertex,Detect ESG and supply chain risks using AI monitoring tools.
+Google Cloud Vertex,Track inventory more efficiently with AI-integrated spreadsheets.
+Google Cloud Vertex,Build real-time distribution network visibility tools with digital twins.
+Google Cloud Vertex,Enable autonomous driving with ML models on high-performance infrastructure.
+Google Cloud Vertex,Enhance self-service customer support with AI virtual assistants.
+Google Cloud Vertex,Accelerate ecommerce order processing and digital store revenue channels.
+Google Cloud Vertex,Assist healthcare customers in locating providers through AI agents.
+Google Cloud Vertex,Provide relationship intelligence and monitoring in professional networks.
+Google Cloud Vertex,Autofill tax return forms using AI document recognition.
+Google Cloud Vertex,Transform trust accounting data for retirement planning via AI automation.
+Google Cloud Vertex,Enhance client-facing teams with real-time AI suggestions and insights.
+Google Cloud Vertex,Handle internal customer inquiries with AI chat models.
+Google Cloud Vertex,Deliver real-time wealth insights for financial management apps.
+LangChain,Automate ticket routing based on content to reduce support response times.
+LangChain,Assist support agents with real-time answer suggestions to improve ticket accuracy.
+LangChain,Evaluate model performance and cost trade-offs in support workflows.
+LangChain,Support property managers in decision-making with AI copilots.
+LangChain,Improve response accuracy for property management queries.
+LangChain,Detect and respond to security threats using orchestrated AI agents.
+LangChain,Reduce manual work in security operations through GenAI automation.
+LangChain,Handle customer support requests for millions of users using AI agents.
+LangChain,Reduce customer resolution time with scalable AI assistance.
+LangChain,Match candidates to jobs using AI-based recruitment workflows.
+LangChain,Streamline hiring with conversational search and agent hierarchies.
+LangChain,Assist developers in generating code and building software quickly.
+LangChain,Enable human-in-the-loop workflows during AI-based software development.
+LangChain,Automate generation of unit tests to support large-scale code migration.
+LangChain,Coordinate multiple agents to validate and fix code automatically.
+LlamaIndex,Develop internal AI assistant to automate data extraction from enterprise documents.
+LlamaIndex,Automate filling of structured data from unstructured financial documents like 10-Ks.
+LlamaIndex,Build chatbot to handle customer FAQs and manage order cancellations.
+LlamaIndex,Create consumer-facing research assistant for analyzing user-uploaded documents.
+LlamaIndex,Standardize enterprise knowledge assistant development using multimodal RAG pipelines.
+LlamaIndex,Accelerate LLM app development by automating complex data indexing and parsing.
+LlamaIndex,Rapidly prototype and deploy RAG applications for enterprise-grade document parsing.
+LlamaIndex,Support automation and insight synthesis across complex enterprise datasets.
+Notion,Extract relevant information from documents to automate data entry tasks.
+Notion,Categorize and organize documents for better information accessibility.
+Notion,"Automate repetitive tasks like record updates, notifications, and approvals."
+Notion,Integrate AI automation into existing workflows with minimal disruption.
+Pega,Implement omni-channel customer experience to ensure consistent engagement.
+Pega,"Utilize low-code CRM platform to support marketing, sales, and onboarding functions."
+Pega,Develop ecosystem for real-time customer insights across channels.
+Pega,Deliver personalized customer experiences at scale across all channels.
+Pega,Use AI tools to recommend next best actions for customers.
+Pega,Improve customer satisfaction metrics like net promoter score through targeted service delivery.
+Pega,Shift from product-centric to customer-centric business model.
+Pega,Identify at-risk customers using predictive churn analysis.
+Pega,Provide service agents with real-time recommendations for retention offers.
+Pega,"Leverage customer decision data including CLV, churn risk, and engagement history."
+Pega,Enable agents to access customer profiles and offers through automated interfaces.
+Pega,Capture customer responses to refine engagement strategies.
+Replit,Engage with customers to gather website or app requirements.
+Replit,Automate the process of translating user ideas into working code.
+Replit,Develop marketing websites and landing pages based on user input.
+Replit,Build and deploy full-stack applications from prompts.
+Replit,Iterate on user feedback to refine product outputs.
+Replit,Generate promotional product demos and showcase tools.
+Replit,Support entrepreneurs in rapidly prototyping MVPs for business ideas.
+Replit,Enable product customization through chat-based development.
+Replit,Deploy and host web applications generated by user conversations.
+Replit,Provide software engineering support for marketing-focused applications.
+Gumloop,Automate outreach workflows for sales development representatives (SDRs).
+Gumloop,Retrieve brand-specific data from Salesforce and spreadsheets for email personalization.
+Gumloop,Draft hyper-personalized sales emails using AI workflows.
+Gumloop,Implement approval workflow for email review and final send.
+Gumloop,Increase meeting volume through automated high-quality outreach.
+Gumloop,Eliminate manual data entry for SDRs using integrated API access.
+Gumloop,Enable non-technical staff to build and deploy AI-powered workflows.
+Gumloop,Expand AI automation across departments including operations and product teams.
+Gumloop,Support customer engagement by automating personalized communications.
+Gumloop,Streamline sales prospecting with enterprise-grade secure AI tools.
+Gumloop,Automate lead enrichment and sales outreach workflows.
+Gumloop,Use AI to identify high-potential hotelier leads via web scraping and internal data integration.
+Gumloop,Draft personalized outreach communications automatically.
+Gumloop,Enable non-technical staff to build and deploy custom workflows.
+Gumloop,Automate PDF processing for categorizing batch documents.
+Gumloop,Monitor news stories and write newsletters with AI-assisted workflows.
+Gumloop,Enable company-wide AI adoption through internal education and hackathons.
+Gumloop,Provide access to custom automation flows via Chrome extension.
+Gumloop,Reduce engineering dependency for business operations tasks.
+Gumloop,Categorize and summarize content for outbound marketing campaigns.
+Gumloop,Analyze social media posts to determine sentiment and support needs.
+Gumloop,Automatically tag posts by priority and content category using AI.
+Gumloop,Route high-priority posts to internal teams for fast response.
+Gumloop,Aggregate community sentiment and engagement trends in reports.
+Gumloop,"Automate moderation of posts from Reddit, X, and YouTube."
+Gumloop,Build scalable workflows to analyze posts from multiple platforms.
+Gumloop,Reduce manual social media monitoring by surfacing critical posts.
+Gumloop,Empower marketing team with AI workflows to manage community engagement.
+Gumloop,Track customer support needs in real-time across social channels.
+Gumloop,Increase response rate and efficiency in community management.
+HubSpot Breeze,Automate routine sales tasks with AI to save time and increase deal velocity.
+HubSpot Breeze,Use AI features to jumpstart content creation and draft personalized follow-up emails.
+HubSpot Breeze,Generate workflow descriptions and call summaries to streamline sales processes.
+HubSpot Breeze,Enhance operational efficiency by reducing manual data entry and improving CRM adoption.
+HubSpot Breeze,Streamline customer communications with AI-driven quick responses in Service Hub.
+HubSpot Breeze,Automate summarization of customer histories and inquiry management.
+HubSpot Breeze,Implement standardized reply recommendations and customer sentiment analysis.
+HubSpot Breeze,Improve onboarding and training for service teams through AI tools.
+HubSpot Breeze,Enrich database records with AI-powered data enrichment for deeper audience insights.
+HubSpot Breeze,Align outreach strategies with the Ideal Customer Profile using enriched data.
+HubSpot Breeze,Leverage AI to create hyper-personalized interactions for sales and marketing.
+HubSpot Breeze,Accelerate content creation across multi-channel campaigns with AI assistance.
+HubSpot Breeze,Personalize sales funnel experiences by tailoring messaging to customer segments.
+HubSpot Breeze,Reduce sales cycle duration by utilizing AI-driven insights for tailored outreach.
+HubSpot Breeze,Use AI buyer intent data to gain visibility into high-intent prospects.
+HubSpot Breeze,Prioritize leads and tailor outreach to drive conversions in targeted industries.
+HubSpot Breeze,Transform website visitor engagement into actionable insights using AI buyer intent.
+HubSpot Breeze,Refine content and advertising strategies by segmenting audiences based on industry and company size.
+Lyzr,Manage multi-channel marketing campaigns seamlessly.
+Lyzr,Automate campaign scheduling and execution.
+Lyzr,Track and optimize campaign performance.
+Lyzr,Personalize campaigns for specific audiences.
+Lyzr,"Create engaging blogs, newsletters, and ads effortlessly."
+Lyzr,Generate SEO-optimized blogs and articles.
+Lyzr,Draft newsletters and ad copies in minutes.
+Lyzr,Maintain consistent brand tone across content.
+Lyzr,"Handle campaigns, SEO, analytics, and content creation to drive results."
+Lyzr,Monitor brand mentions and trends online.
+Lyzr,Draft and format PR content efficiently.
+Lyzr,Create compelling ad copies for campaigns.
+Lyzr,Automate post scheduling and insights tracking.
+Lyzr,Analyze customer demographics and behavior.
+Lyzr,Track competitor strategies in real time.
+Relevance AI,Analyze customer data.
+Relevance AI,Personalize content.
+Relevance AI,Optimize campaigns.
+Relevance AI,Schedule posts.
+Relevance AI,Engage with prospects.
+Relevance AI,Measure performance.
+Relevance AI,Automate content creation.
+Relevance AI,Manage social media.
+Relevance AI,Optimize email campaigns.
+Relevance AI,Segment audiences.
+Relevance AI,Target ads.
+Relevance AI,Perform competitive analysis.
+Relevance AI,Track performance metrics.
+Relevance AI,Score leads.
+Relevance AI,Map customer journeys.
+Relevance AI,Generate personalized recommendations.
+Albert AI,Develop proactive creative insights and messaging recommendations for digital marketing strategies.
+Albert AI,Execute multivariate testing of campaign variables and optimize budget spending autonomously.
+Albert AI,Utilize predictive analytics and deep learning for autonomous media buying and creative optimization.
+Albert AI,Analyze user behavior across paid search and social media to optimize campaign performance.
+Albert AI,"Integrate prospecting, retargeting, and retention campaigns through AI-driven audience targeting."
+Albert AI,Generate actionable customer insights to inform creative strategy and product development.
+Albert AI,Implement hyper-local targeting strategies with multimedia creative elements for seasonal promotions.
+Albert AI,Execute autonomous multi-channel digital media planning and buying to drive revenue and reduce CPA.
+Albert AI,"Dynamically adjust advertising budgets in real time across paid search, social, and programmatic channels."
+Albert AI,Optimize loyalty program campaigns using extensive keyword testing and ad set refinement.
+Albert AI,Improve lead quality and lower cost-per-lead through AI-driven creative performance insights.
+Albert AI,Integrate multi-channel digital marketing efforts for enhanced transparency and holistic campaign management.
+Albert AI,"Optimize PPC campaigns with extensive keyword testing, creative ad generation, and real-time optimization."
+Albert AI,Drive new customer acquisition and reduce CPA by leveraging AI to generate and test thousands of ad variations.
+Albert AI,Unlock and target new audience segments through autonomous multivariate testing and budget reallocation.
+Albert AI,"Personalize paid social strategies using AI-driven audience segmentation and continuous, 24/7 campaign monitoring."
+Zapier,Automate customer acquisition flows to reduce time-to-value by 40% and support international customers faster.
+Zapier,"Maintain robust customer profiles to personalize communications, diagnose experience issues, and save 3+ hours per week in manual data entry."
+Zapier,"Seamlessly integrate data across Salesforce, Marketo, and Google Ads to eliminate manual downloads, formatting, and uploads."
+Zapier,"Automate lead transfers via webhooks from Marketo to Salesforce, reducing quality assurance time by 30% and enabling focus on strategic initiatives."
+Zapier,"Enable unlimited flexibility and creativity in automation, empowering innovative marketing approaches."
+Zapier,"Improve marketing spend efficiency by setting precise conditions for sending conversion data to Google, reducing expenses significantly."
+Zapier,Automate repetitive lead generation processes to reduce cost per lead by 20%.
+Zapier,"Streamline reporting processes to save account managers time and reduce stress, freeing up 9+ hours per month for client work."
+ZBrain,Automatically categorize backlinks based on quality and relevance to enhance SEO strategies.
+ZBrain,Provide actionable insights and recommendations for acquiring high-quality backlinks.
+ZBrain,Identify trending keywords and audience interests to generate engaging blog topics.
+ZBrain,Streamline content creation by automating blog topic ideation based on current trends.
+ZBrain,"Assess marketing content for tone, style, and adherence to brand guidelines to ensure consistency."
+ZBrain,Provide actionable recommendations to align marketing content with the brand's voice.
+ZBrain,Automatically classify news articles and press releases into relevant categories for competitive analysis.
+ZBrain,Generate concise summaries of competitor activities and industry trends.
+ZBrain,"Automate the gathering, analysis, and structuring of research data to produce citation-backed articles."
+ZBrain,Generate structured research outlines and organized content from credible sources.
+ZBrain,Classify and evaluate customer feedback into sentiments to drive improvements in customer experience.
+ZBrain,Enable automated sentiment analysis across multiple channels for actionable customer insights.
+ZBrain,Generate personalized email content tailored to customer segments to enhance engagement and conversions.
+ZBrain,"Leverage customer segmentation data for automated, targeted email campaign personalization."
+ZBrain,Automate the verification of factual information in documents using real-time web search.
+ZBrain,Extract and validate data points to ensure content accuracy and credibility.
+ZBrain,Automatically summarize comprehensive market reports into actionable insights for strategic decision-making.
+ZBrain,Distill large datasets into key market trends to support product launch planning.
+ZBrain,"Transform marketing operations by automating tasks such as SEO optimization, content creation, and customer experience management."
+ZBrain,"Provide deep consumer insights, competitive analysis, and strategic support to enhance marketing strategies and brand positioning."
+ZBrain,Automatically draft well-structured press releases that align with brand voice and tone.
+ZBrain,Organize and structure key information for press releases to streamline media outreach.
+ZBrain,Reduce manual drafting workload by generating timely and accurate press release content.
+ZBrain,Incorporate natural language feedback to continuously improve press release quality.
+ZBrain,Automatically generate tailored social media posts based on user-uploaded content and brand guidelines.
+ZBrain,"Optimize social media posts for specific platforms with appropriate hashtags, emojis, and formatting."
+ZBrain,Ensure brand consistency and audience engagement across all social media channels.
+ZBrain,Leverage user feedback to refine and adapt social media content generation over time.
+ZBrain,"Automatically classify social media mentions into positive, negative, or neutral sentiment categories."
+ZBrain,Provide real-time sentiment analysis of competitor and brand discussions on social media.
+ZBrain,Generate actionable insights from social media sentiment data for strategic marketing adjustments.
+ZBrain,Support proactive brand management by monitoring emerging trends and shifts in public sentiment.
+Salesforce Agentforce,"Automate tax inquiries to provide instant, personalized support during tax season."
+Salesforce Agentforce,Deploy a digital workforce to handle common tax and accounting questions and schedule follow-ups.
+Salesforce Agentforce,Automate roadside assistance inquiries and streamline claims communication for AAA Washington.
+Salesforce Agentforce,Automate creation of integrated care summaries to boost clinician efficiency.
+Salesforce Agentforce,Unify patient data to reduce manual charting and personalize healthcare interventions.
+Salesforce Agentforce,Automate recruitment by screening resumes and scheduling interviews with AI.
+Salesforce Agentforce,Generate AI-driven account summaries and email drafts to boost sales productivity.
+Salesforce Agentforce,"Automate lead routing, sentiment analysis, and real-time reporting for efficient case management."
+Salesforce Agentforce,"Provide on-demand, personalized student support and coach training resources."
+Salesforce Agentforce,Automate academic support and respond in real time to college application queries.
+Salesforce Agentforce,Automate workplace catering orders with intelligent adjustments and demand forecasting.
+Salesforce Agentforce,Automate appliance troubleshooting and predictive maintenance using IoT data.
+Salesforce Agentforce,"Unify fan data to deliver real-time, personalized support for Formula 1 fans."
+Salesforce Agentforce,Automate passenger support and in-terminal wayfinding for efficient airport service.
+Salesforce Agentforce,"Integrate data sources to provide real-time, customized travel insights."
+Salesforce Agentforce,Automate employer onboarding and verification for faster job postings.
+Salesforce Agentforce,Automate troubleshooting for employer onboarding to expedite job matching.
+Salesforce Agentforce,Unify sales and service data to enhance collaboration and strategic insights.
+Salesforce Agentforce,Automate call summarization and inquiry scheduling for law firm intake.
+Salesforce Agentforce,Generate AI-summarized call transcripts and client summaries for legal case management.
+Salesforce Agentforce,"Automate restaurant customer service by managing reservations, loyalty, and FAQs."
+Salesforce Agentforce,"Unify customer profiles for personalized, self-service restaurant support."
+Salesforce Agentforce,Automate diabetes care support with real-time data integration and streamlined training.
+Salesforce Agentforce,Automate proactive healthcare outreach for chronic disease management.
+Salesforce Agentforce,Automate order status and returns for luxury shopping support.
+Salesforce Agentforce,Integrate first-party data to deliver personalized luxury retail experiences.
+Salesforce Agentforce,Automate self-help support to resolve 80% of customer queries with unified data.
+Salesforce Agentforce,"Integrate structured and unstructured data for immediate, personalized support."
+Salesforce Agentforce,Automate 24/7 travel assistance for luxury vacationers with automated inquiry handling.
+Salesforce Agentforce,"Unify customer profiles to deliver real-time, tailored travel engagement."
+Salesforce Agentforce,Automate digital customer service for consumer products with instant updates and troubleshooting.
+Salesforce Agentforce,Use unified consumer data for contextual cross-selling and post-purchase support.
+Salesforce Agentforce,Automate candidate screening and resume shortlisting for global recruitment.
+Salesforce Agentforce,Automate personalized candidate outreach to promote alternative opportunities.
+Salesforce Agentforce,Automate job postings across platforms using data-driven insights.
+Salesforce Agentforce,"Automate telehealth support with enrollment, eligibility verification, and wellness tracking."
+Salesforce Agentforce,Automate medication compatibility checks and streamline telehealth interactions.
+Salesforce Agentforce,Automate student support with personalized academic guidance and instant course registration.
+Salesforce Agentforce,Unify student data to streamline access to records and accelerate enrollment.
+Salesforce Agentforce,Automate smart home troubleshooting with IoT data integration and personalized support.
+Salesforce Agentforce,Enable self-service for smart home support with automatic escalation for complex issues.
+Salesforce Agentforce,Automate supplement education using a comprehensive knowledge base for personalized support.
+Salesforce Agentforce,Enable digital self-service with personalized recommendations for higher supplement sales.
+Salesforce Agentforce,Automate case summarization and incident tracking for efficient publishing support.
+Salesforce Agentforce,Automate driver training scheduling and enrollment with multilingual 24/7 support.
+Salesforce Agentforce,Automate tailored upselling during driver course registration and booking.
+ServiceNow AI Agents & Now Assist,"Streamline incident management and request fulfillment across IT operations while automating tasks and delivering smarter, improved service"
+ServiceNow AI Agents & Now Assist,"Manage and remediate risk incidents by automating key processes, tracking system health, and identifying potential vulnerabilities"
+ServiceNow AI Agents & Now Assist,"Assist with routine employee onboarding tasks, submit HR requests, resolve inquiries, and simplify access to policies, benefits, and support services"
+ServiceNow AI Agents & Now Assist,"Handle routine customer requests and automate complex CRM processes—from issue resolution to large-scale coordination—to deliver faster, more efficient support"
+ServiceNow AI Agents & Now Assist,"Accelerate and simplify application development by assisting with script, playbook, and code creation; audit and manage knowledge bases for faster releases, better collaboration, and fewer errors"
+ServiceNow AI Agents & Now Assist,"Enhance finance and supply-chain operations by automating tasks, providing real-time insights, reducing manual effort, improving accuracy, and unlocking savings across key processes"
+UiPath Autopilot & AI Agent Studio,Submit an expense report
+UiPath Autopilot & AI Agent Studio,Process invoices
+UiPath Autopilot & AI Agent Studio,Plan a business trip
+UiPath Autopilot & AI Agent Studio,Get guidance to complete business tasks across business apps and systems based on work context and recommend next steps
+UiPath Autopilot & AI Agent Studio,"Prepare for a customer meeting by writing the request in a chat and let the agent start working on it, confirming steps"
+UiPath Autopilot & AI Agent Studio,Find new sales leads by writing the request in a chat and let the agent start working on it
+UiPath Autopilot & AI Agent Studio,Onboard new hires by writing the request in a chat and let the agent start working on it
+UiPath Autopilot & AI Agent Studio,"Delegate digital paperwork processing by dropping a file (e.g., passport, resume, screenshot) into chat for extraction and analysis"
+UiPath Autopilot & AI Agent Studio,Access UI or API automations built by you and run them as part of a workflow
+UiPath Autopilot & AI Agent Studio,Turn a performed process into a ready-to-use automation by exporting the workflow to UiPath Studio
+UiPath Autopilot & AI Agent Studio,Generate chat responses and email drafts using AI models
+UiPath Autopilot & AI Agent Studio,Summarize and rewrite text according to specific styles
+UiPath Autopilot & AI Agent Studio,Translate between languages and categorize content
+UiPath Autopilot & AI Agent Studio,Create content tailored to various purposes and guidelines
+UiPath Autopilot & AI Agent Studio,Manipulate and refine textual content for improved clarity and effectiveness
+UiPath Autopilot & AI Agent Studio,Detect languages and recognize named entities in text
+UiPath Autopilot & AI Agent Studio,Filter and redact personally identifiable information (PII)
+UiPath Autopilot & AI Agent Studio,Analyze semantic similarities between text strings
+UiPath Autopilot & AI Agent Studio,Reformat text and detect changes in structure
+UiPath Autopilot & AI Agent Studio,Perform context-based searches in indices or files
+UiPath Autopilot & AI Agent Studio,Extract and process linguistic information for deeper understanding
+UiPath Autopilot & AI Agent Studio,"Analyze images, detect objects, and classify visual content"
+UiPath Autopilot & AI Agent Studio,Compare images and signatures for similarity
+UiPath Autopilot & AI Agent Studio,Generate completions including image files or URLs
+UiPath Autopilot & AI Agent Studio,Execute web searches and summarize results
+UiPath Autopilot & AI Agent Studio,Extract and process text from web pages
+UiPath Autopilot & AI Agent Studio,Provide comprehensive analysis of visual and web-based information
+UiPath Autopilot & AI Agent Studio,Tame the complexity of HTS classification to improve efficiency in international trade operations
+UiPath Autopilot & AI Agent Studio,"Streamline adverse event reporting and general inquiries to improve accuracy, compliance, and response times"
+UiPath Autopilot & AI Agent Studio,"Accelerate invoice dispute investigation by creating, customizing, and deploying reliable AI agents"
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Deliver more effective and efficient service with error-free execution of complex and sensitive service tasks like responding to inquiries
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Ensure compliance and responsible use of AI when implemented with built-in security and governance to set guardrails and provide full traceability
+Automation Anywhere Agentic Process Automation & AI Agent Studio,"Accelerate business operations with responsible, autonomous execution of cognitive work and end-to-end business processes"
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Drive competitiveness with faster and more flexible automation of business processes that target desired outcomes rather than step-by-step progression
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Power productivity by augmenting and accelerating the effectiveness of your human workforce with AI-powered assistants
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Reset customer passwords when specific keywords are detected in a conversation
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Adjust the temperature in smart homes based on thermostat data
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Suggest driving routes using maps and location updates
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Help with scheduling tasks that must conform to certain deadlines or parameters
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Provide recommendation engines that more closely reflect user preferences as they learn from feedback and interactions
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Scale computing resources based on application needs to optimize performance and costs
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Accurately capture and centralize journal entries and reconciliations in real time across departments
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Execute invoice processing from matching invoices to purchase orders through to payment
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Review documents and continuously monitor financial data to assist auditors in creating accurate financial reports
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Deliver expert knowledge and workflow assistance in real time within the applications where service employees are working (onboarding)
+Automation Anywhere Agentic Process Automation & AI Agent Studio,"Monitor equipment and systems, predicting potential failures and initiating proactive response measures to minimize downtime and costs (predictive maintenance)"
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Respond to customer inquiries around the clock using NLP to reduce wait times and accelerate inquiry resolution
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Monitor network traffic for unusual patterns or anomalies that could signal a security threat
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Isolate devices or initiate countermeasures as defined by InfoSec protocols (security threat response)
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Autonomously resolve common requests such as resetting passwords or provisioning new devices (help desk automation)
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Automate claims routing and execute real-time loss assessments by leveraging sensor data from IoT devices (claims processing)
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Analyze large volumes of data in real time to create accurate quotes (underwriting)
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Look for patterns and anomalies to detect fraud risks and stream authentic claims for faster processing (fraud detection)
+Automation Anywhere Agentic Process Automation & AI Agent Studio,"Precision-analyze medical images (X-rays, MRIs, and CT scans) using advanced image-recognition algorithms to expedite diagnosis and improve identification of abnormalities (accurate diagnostics)"
+Automation Anywhere Agentic Process Automation & AI Agent Studio,"Harness diverse datasets (patient history, genetics, treatment outcomes, etc.) to generate personalized plans that minimize potential side effects (personalized treatment plans)"
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Reduce the administrative burden on healthcare professionals by assisting with routine yet complex work such as documentation processes (workflow optimization)
+Automation Anywhere Agentic Process Automation & AI Agent Studio,"Apply predefined scripts, enterprise knowledge and machine-learning algorithms to efficiently handle a broad range of customer inquiries and issues (issue resolution)"
+Automation Anywhere Agentic Process Automation & AI Agent Studio,"Integrate with multiple communication platforms (websites, mobile apps, social media) to provide unified service to customers across channels (multichannel service)"
+Automation Anywhere Agentic Process Automation & AI Agent Studio,Generate and communicate tailored product recommendations based on customer data such as browsing history and purchase behavior
+Salesforce Agentforce,"Build, deploy, and manage AI agents at scale to work for customers, suppliers, and employees 24/7"
+Salesforce Agentforce,"Manage the complete agent development lifecycle with tools to build, test, deploy, manage, and orchestrate AI agents"
+Salesforce Agentforce,"Use Agentforce Builder to unify drafting, testing, and deployment in a conversational workspace; refine in a document-like editor with autocomplete, low-code canvas, or pro-code script view"
+Salesforce Agentforce,"Intelligent Context extracts and structures information from complex, unstructured sources so agents can deliver accurate and relevant responses; includes a low-code pipeline for unstructured, multimodal data processing"
+Salesforce Agentforce,"Provide task-specific, highly specialized AI agents to help employees by answering questions and automating routine tasks"
+Salesforce Agentforce,Deep Research: process data and perform long-running tasks to improve productivity for any department
+Salesforce Agentforce,"Appointment Scheduling: schedule appointments based on history and context, send appointment follow-ups and send reschedule and reminder notifications"
+Salesforce Agentforce,"Harness workflows, data, and actions within Industry Clouds to configure autonomous agents that speak the language of your industry using data and business logic like Prompts, Flows, APEX and APIs"
+Salesforce Agentforce,"Offer guardrails and security tools designed to keep data secure, prevent abuse, and reduce hallucinated or biased responses"
+Microsoft Copilot Studio & Azure AI Agents,"Build conversational agents that respond to natural-language prompts with a conversational flow—answer questions, guide workflows, or complete tasks using your business data"
+Microsoft Copilot Studio & Azure AI Agents,"Create autonomous agents that operate independently to plan, learn and escalate work items"
+Microsoft Copilot Studio & Azure AI Agents,Use pre-built agents or customize agent templates across lines of business
+Microsoft Copilot Studio & Azure AI Agents,Enhance automation with agent flows by preconfiguring workflows that agents can follow to execute highly structured tasks at scale
+Microsoft Copilot Studio & Azure AI Agents,Design voice agents that add flexibility to IVR systems and voice agents using generative AI to serve users quickly
+Microsoft Copilot Studio & Azure AI Agents,"Ground agents with your organization’s knowledge by pointing them to data across Microsoft Graph, Dataverse, local files, Azure cloud and other sources"
+Microsoft Copilot Studio & Azure AI Agents,"Enable agents to take actions and complete tasks by turning conversations into desired actions using data connectors, REST APIs, MCP servers and agent flows"
+Microsoft Copilot Studio & Azure AI Agents,"Add structured instructions for better results by applying AI to text, documents or images to analyze, summarize or transform them"
+Microsoft Copilot Studio & Azure AI Agents,"Customize agents with third-party data using more than 1,400 Power Platform connectors"
+Microsoft Copilot Studio & Azure AI Agents,Simplify integration for agents using an open standard for connecting agents to data
+Microsoft Copilot Studio & Azure AI Agents,Create multi-agent systems by connecting agents so that specialized knowledge or actions are invoked by the right agent
+Microsoft Copilot Studio & Azure AI Agents,Finance use case: Balance sheet reconciliation agent ensures accurate balance sheets by detecting variances and automating corrections
+Microsoft Copilot Studio & Azure AI Agents,Human resources use case: Recruitment assistant agent identifies and ranks top candidates by automating screening processes and surfacing ideal matches
+Microsoft Copilot Studio & Azure AI Agents,Customer service use case: Personalized cross-sell/upsell agent automatically identifies customer preferences and patterns to deliver personalized upsell recommendations
+Microsoft Copilot Studio & Azure AI Agents,"Information technology use case: IT support agent automates ticket intake and creation, triage, and communication through AI-powered support"
+Microsoft Copilot Studio & Azure AI Agents,"Legal use case: Automated contract review agent detects risks, deviations and compliance issues and recommends changes"
+Microsoft Copilot Studio & Azure AI Agents,Marketing use case: Compliance check agent ensures marketing aligns with brand and regulatory rules by detecting inconsistencies and risks before publishing
+Vertex AI Agent Builder & Agent Engine,"Build, scale, and govern enterprise-grade AI agents based on enterprise data"
+Vertex AI Agent Builder & Agent Engine,Build agents and multi-agent workflows
+Vertex AI Agent Builder & Agent Engine,"Connect agents to enterprise data and tools via frameworks like LangChain, LangGraph, AG2, Crew.ai"
+Vertex AI Agent Builder & Agent Engine,Enable different agents to communicate and collaborate using the open Agent2Agent (A2A) protocol
+Vertex AI Agent Builder & Agent Engine,"Connect agents to appropriate tools, data, and security protections using the Model Context Protocol"
+Vertex AI Agent Builder & Agent Engine,Deploy agents seamlessly across frameworks or model providers while retaining conversation context with short-term and long-term memory
+Vertex AI Agent Builder & Agent Engine,Use evaluation tools and sample store to improve agent performance
+Vertex AI Agent Builder & Agent Engine,"Equip agents with retrieval-augmented generation to access and interpret organizational knowledge through Vertex AI Search and Vector Search; build custom RAG engines connecting to various data sources like local files, Cloud Storage, Google Drive, Slack and Jira"
+IBM watsonx Orchestrate & watsonx Agents,"Deliver fast, accurate support across web chat, phone, SMS and social apps, built with contextual awareness and reasoning, handling complex, multi-step tasks and guiding customers to resolution without human intervention"
+IBM watsonx Orchestrate & watsonx Agents,"Agent Assist surfaces the right answers and suggests next-best actions, providing faster service for customer service agents"
+IBM watsonx Orchestrate & watsonx Agents,"Prebuilt finance agents automate critical workflows such as forecasting, reconciliations, invoice processing and cash-flow management"
+IBM watsonx Orchestrate & watsonx Agents,"HR agents answer HR questions, manage time-off requests, retrieve payslips and guide employees through benefits and onboarding"
+IBM watsonx Orchestrate & watsonx Agents,"HR agents automate job requisitions, candidate sourcing, resume screening, interview scheduling and offer generation"
+IBM watsonx Orchestrate & watsonx Agents,"HR agents identify skill gaps, recommend personalized training and support goal setting and continuous feedback for employees"
+IBM watsonx Orchestrate & watsonx Agents,Supplier-management agents integrate third-party insights to flag risks and automate supplier onboarding and profile maintenance
+IBM watsonx Orchestrate & watsonx Agents,"Purchasing agents provide self-service for tracking purchase requests, orders and goods receipts, automating common tasks and resolving issues quickly"
+IBM watsonx Orchestrate & watsonx Agents,"Sourcing & contract agents create sourcing events, generate RFP drafts, recommend suppliers and manage contract workflows"
+IBM watsonx Orchestrate & watsonx Agents,"Invoice-management agents detect discrepancies, clear blocked invoices and coordinate resolution with business owners and suppliers"
+IBM watsonx Orchestrate & watsonx Agents,"Inventory-management agents monitor stock levels, reallocate resources and streamline adjustments"
+IBM watsonx Orchestrate & watsonx Agents,"Order-shipment-readiness agents check shipment status, update orders and verify stock availability"
+IBM watsonx Orchestrate & watsonx Agents,Sales agents draft and send personalized emails to verified clients automatically
+IBM watsonx Orchestrate & watsonx Agents,Sales agents retrieve enriched company and contact data to fuel prospecting
+IBM watsonx Orchestrate & watsonx Agents,"Sales agents view and update accounts, opportunities, leads and contact records directly in Salesforce"
+IBM watsonx Orchestrate & watsonx Agents,Sales agents answer seller questions using curated content and respond to user questions across early-stage sales workflows
+IBM watsonx Orchestrate & watsonx Agents,Sales agents consolidate data from multiple sources to generate actionable insights about accounts and industries
+Workday Illuminate Agents & Workday AI Agents,BP Optimize Agent streamlines Workday business processes in minutes with AI-powered recommendations
+Workday Illuminate Agents & Workday AI Agents,Contingent Sourcing Agent accelerates sourcing and reduces costs by proactively finding top contingent talent
+Workday Illuminate Agents & Workday AI Agents,"Contract Intelligence Agent continuously monitors contracts for risks, opportunities and obligations with dashboards"
+Workday Illuminate Agents & Workday AI Agents,"Contract Negotiation Agent expedites contract reviews and negotiations for faster, more compliant agreements"
+Workday Illuminate Agents & Workday AI Agents,Financial Audit Agent automates audit evidence collection for accounting teams
+Workday Illuminate Agents & Workday AI Agents,Frontline Agent automates experiences and operations for frontline workers and managers
+Workday Illuminate Agents & Workday AI Agents,Payroll Agent reduces manual payroll tasks through automation and improved data quality
+Workday Illuminate Agents & Workday AI Agents,Planning Agent transforms how work gets done across the planning lifecycle through intelligence and automation
+Workday Illuminate Agents & Workday AI Agents,Recruiting Agent boosts productivity and decision-making with streamlined recruiter workflows
+Workday Illuminate Agents & Workday AI Agents,Revenue Contract Agent transforms revenue contracts into insight and automates billing schedules and accounting entries
+Workday Illuminate Agents & Workday AI Agents,Self-Service Agent empowers your workforce with instant answers and effortless task completion
+Workday Illuminate Agents & Workday AI Agents,"Supplier Contract Agent simplifies supplier setup, maximizes economic benefits of agreements and mitigates risk"
+Workday Illuminate Agents & Workday AI Agents,"Talent Mobility Agent enables internal talent mobility with personalized matching for employees, managers and recruiters"
+Workday Illuminate Agents & Workday AI Agents,"Workday AI agents help employees schedule time off and check pay stubs quickly, saving time and money"
+SAP Joule Agents,"Joule Agents automate complex workflows across SAP and third-party applications using prebuilt skills and process context, reasoning which actions to take and in which order"
+SAP Joule Agents,Joule Agents collaborate using a library of ready-to-use agents to solve bigger problems and blend expertise across functions
+SAP Joule Agents,"Finance agents reduce time spent on disputes, lower days sales outstanding, reduce bad-debt write-offs, promote compliant travel & expenses and simplify period-end reporting"
+SAP Joule Agents,"Procurement agents enable fast, agile sourcing events, automate bid analysis and accelerate data-driven purchasing decisions"
+SAP Joule Agents,"Supply-chain agents mitigate production disruptions, keep critical assets running, streamline production planning and accelerate supplier onboarding"
+SAP Joule Agents,"Customer-experience agents increase online conversion rates, streamline responses to customer inquiries and let sales teams focus on engagement"
+SAP Joule Agents,"Human-resources agents elevate people management, automate succession planning, improve employee experience and deliver strategic workforce recommendations"
+SAP Joule Agents,"Business-transformation agents deliver process summaries, consolidate insights, recommend actions and speed insight-to-initiative workflows"
+SAP Joule Agents,"Industry-specific agents craft accurate proposals, process spare-parts requests faster and deliver high-quality customer support"
+Oracle AI Agents for Fusion Applications,"Finance Payables Agent automates multichannel invoice processing: ingesting invoices from email, portals, EDI/e-invoicing and PDFs, extracting and normalizing data, matching to purchase orders/receipts, creating distributions and accounting, applying tax/policy/fraud checks and routing for approval and payment"
+Oracle AI Agents for Fusion Applications,"Finance Ledger Agent sets natural-language monitoring prompts, delivers context-aware inquiry and explanations with supporting details and autocreates adjustment journals"
+Oracle AI Agents for Fusion Applications,"Finance Planning Agent provides real-time trend and variance analysis via natural-language interactions, runs event-driven predictions on financial and operational data and guides “what-if” simulations"
+Oracle AI Agents for Fusion Applications,"Finance Payments Agent evaluates and manages early-pay, virtual-card and financing options, enables bank-system interactions for faster supplier onboarding and execution and monitors acknowledgements and exceptions"
+Oracle AI Agents for Fusion Applications,Finance Expense Policy Agent addresses policy questions from employees with contextual answers
+Oracle AI Agents for Fusion Applications,"Finance Profitability and Cost Management Agent provides a conversational interface to help users build, modify, calculate and analyze profitability and cost models"
+Oracle AI Agents for Fusion Applications,"Finance Receipt Capture and Matching uses document intelligence to deliver touchless expenses, increasing accuracy and automating matching of credit-card charges during expense creation"
+Oracle AI Agents for Fusion Applications,Risk Management Access Request Assistant helps users quickly create access requests to ERP roles and data and initiates advanced separation-of-duties analysis
+Moveworks AI Copilot for Enterprise,"Unify siloed content systems and business applications across HR, IT, Finance, Procurement, Engineering, Sales and Marketing to deliver an intuitive AI-native experience across languages"
+Moveworks AI Copilot for Enterprise,"Moveworks Reasoning Engine plans, executes and adapts on the fly to complete any request, driving agentic automation"
+Aisera AI Service Desk & AiseraGPT,Enterprise AI Agents supercharge employee productivity by automating routine tasks and enabling event-triggered or user-requested actions across the organization
+Aisera AI Service Desk & AiseraGPT,Dynamic Action Agents build conversational automation in natural language that completes complex tasks by identifying APIs to call and orchestrating their execution in sequence on the fly
+Aisera AI Service Desk & AiseraGPT,"Proactive Agents detect major issues and outages, predict incidents, minimize downtime, reduce operational impact and allocate resources effectively"
+Aisera AI Service Desk & AiseraGPT,Code Gen Agents boost efficiency by understanding coding tasks and translating them into executable code through natural language processing
+Aisera AI Service Desk & AiseraGPT,"Generative Information Retrieval Agents streamline search processes and deliver fast, accurate information by leveraging retrieval-augmented generation to produce precise, contextual responses"
+Aisera AI Service Desk & AiseraGPT,User Assistant Agents automate intricate repetitive tasks and complex processes across applications to assist users directly
+Aisera AI Service Desk & AiseraGPT,"Prescriptive Knowledge Agents provide predetermined answers to specific queries, ensuring consistency and compliance"
+Aisera AI Service Desk & AiseraGPT,"Process Flow Agents automate and optimize workflows, orchestrate cross-functional processes, enable collaboration, eliminate bottlenecks and enhance operational efficiency"
+Aisera AI Service Desk & AiseraGPT,"Analytics Agents provide deeper insights across performance metrics and recommend optimizations to the LLM, knowledge base and fulfillment processes for smarter decision-making"
+Kore.ai XO Platform AI Agents,"Always-on AI agents work across tools, channels and systems to accelerate work, reduce bottlenecks and scale support organization-wide"
+Kore.ai XO Platform AI Agents,"Search enterprise knowledge to surface real-time answers across files, apps, chats and systems, eliminating context-switching and knowledge gaps"
+Kore.ai XO Platform AI Agents,"Generate and summarize content and extract insights from documents across formats, languages, departments and data sources"
+Kore.ai XO Platform AI Agents,"Trigger multi-step AI workflows that complete tasks, initiate system actions and streamline operations across departments such as sales, IT and finance"
+Kore.ai XO Platform AI Agents,"Resolve HR and IT queries at scale with AI agents that automate requests, complete tasks, minimize downtime and support costs"
+Kore.ai XO Platform AI Agents,"AI agents detect intent, adapt to sentiment and complete tasks to streamline support and boost satisfaction"
+Kore.ai XO Platform AI Agents,"Enable natural, dynamic conversations with voice-optimized AI that handles interruptions and topic shifts"
+Kore.ai XO Platform AI Agents,"Provide human-like multi-turn engagements that understand intent, retain context, respond naturally and adapt seamlessly"
+Kore.ai XO Platform AI Agents,Use advanced intent recognition and sentiment analysis to detect emotions such as frustration or urgency and adapt responses accordingly
+Kore.ai XO Platform AI Agents,"Manage multiple tasks simultaneously in one interaction—answering questions, updating orders and scheduling appointments"
+Kore.ai XO Platform AI Agents,Search across structured and unstructured knowledge sources to find relevant answers and provide customers with real-time enterprise data via feedback loops
+Kore.ai XO Platform AI Agents,Provide always-on 24/7 support and frictionless self-service experiences
+Cognigy.AI Service Automation,"Voice AI agents deliver empathetic, effortless phone conversations at scale, creating smoother customer journeys and increasing first-call resolution"
+Cognigy.AI Service Automation,"Voice agents provide frictionless phone experiences: understand what customers want, give the shortest path to resolution and prioritize and route calls instantly to recognize self-service opportunities or critical inquiries"
+Rezolve.ai Service Desk Automation,"Optimize new-hire onboarding by turning complex tasks into a simple workflow, pre-filling, mirroring, automating and initiating processes from Teams, Slack, web or mobile and automating Azure AD mapping plus hardware/software provisioning"
+Rezolve.ai Service Desk Automation,"Provide instant answers to employee queries about policies, schedules, etc., offer detailed contextual help by understanding user context, ask follow-up questions, provide personalized answers and connect with humans when needed"
+Rezolve.ai Service Desk Automation,Stop employees from searching through documents by connecting to all knowledge sources and delivering specific answers with citations while identifying knowledge gaps and duplicates
+Rezolve.ai Service Desk Automation,"Automate common HRIS workflows—leave applications, access to policy and benefit documents and HR case management—through one smart HR chatbot unified across multiple HRIS platforms"
+Atera AI & Copilot,"AI agents resolve IT issues around the clock, reduce time to resolution and provide instant responses and continuous support without additional staffing"
+Atera AI & Copilot,"AI agents reduce IT workload by up to 40 %, letting teams focus on strategic work"
+Atera AI & Copilot,"AI agents handle real-world IT issues by understanding, reasoning and learning, making decisions based on context, history and patterns like a technician"
+Atera AI & Copilot,"Provide a digital counterpart that works around the clock, solving issues, assisting users and escalating only when needed, resulting in less burnout, happier teams and minimal bottlenecks"
+Atera AI & Copilot,"Handle tasks like password resets, software installs and device troubleshooting, freeing IT teams to focus on strategy, upskilling and innovation with minimal training and no ramp-up"
+Atera AI & Copilot,"Transform IT from reactive maintenance to preemptive problem resolution by enabling systems to reason, plan, take actions and improve over time"
+Servicely AI-powered ESM,"AI-driven employee self-service: virtual agents respond 24/7 using natural language, handling common needs such as password resets, access requests and software installs without creating tickets or requiring agent input"
+Servicely AI-powered ESM,"Autonomous incident resolution: AI agents monitor systems and resolve issues instantly, taking action based on real-time data and historical patterns"
+Servicely AI-powered ESM,"Proactive issue detection and prevention: agents analyze system behavior to detect early warning signs, send alerts, apply fixes or open problem records before users notice an issue"
+Servicely AI-powered ESM,"Root-cause analysis with intelligent pattern matching: AI tracks recurring incidents, identifies root causes, creates problem records and suggests permanent fixes"
+Servicely AI-powered ESM,"Dynamic workflow execution: agents make decisions as the environment changes, triggering actions based on current data and context"
+Servicely AI-powered ESM,"AI assistants for the IT Service Desk summarize tickets, recommend solutions, assist with triage and guide agents on next steps using past data and real-time analysis"
+Servicely AI-powered ESM,Continuous knowledge-base generation: the platform creates articles based on successful resolutions and updates the knowledge base automatically
+Servicely AI-powered ESM,"Unified endpoint management via AI: agents integrate with tools like Intune, JAMF and Nexthink to apply patches, enforce security policies and monitor device health without manual intervention"
+Servicely AI-powered ESM,"AI-enhanced change management: assess risk of proposed changes, suggest timing, alert relevant teams and automate changes meeting low-risk criteria"
+Servicely AI-powered ESM,"Multi-agent orchestration: service teams create specialized AI agents to handle distinct tasks, triage tasks or assign work among agents without human intervention"
+Servicely AI-powered ESM,AI Agent Creator assistant enables creating AI agents through conversational interactions
+SymphonyAI Apex AI ITSM Copilot,"Employees can swiftly address IT or enterprise support needs using generative AI to provide instant information, spending less time troubleshooting and focusing more on business-critical tasks"
+SymphonyAI Apex AI ITSM Copilot,"Eliminate interruptions by instantly resolving employee issues or providing proactive support, contributing to organizational growth"
+SymphonyAI Apex AI ITSM Copilot,"Reduce call volumes and increase agent productivity by having the copilot handle routine inquiries, allowing agents to focus on complex tasks"
+SymphonyAI Apex AI ITSM Copilot,"End User Copilot helps employees self-serve by providing relevant knowledge articles and automating tasks such as knowledge search, password resets, shared folder access and guest Wi-Fi access"
+SymphonyAI Apex AI ITSM Copilot,"Analyst Copilot assists analysts in managing and resolving issues via work prioritization, operational intelligence and writing knowledge articles"
+SymphonyAI Apex AI ITSM Copilot,"IT Leadership Copilot provides leaders with real-time insights, helps identify trends and patterns and supports data-driven decisions such as major incident or crisis management and trend prediction"
+SymphonyAI Apex AI ITSM Copilot,AI-enabled knowledge management extracts information from multiple sources across departments to accelerate and automate knowledge gathering
+SymphonyAI Apex AI ITSM Copilot,Integrates with existing ITSM tools and cybersecurity platforms to provide a holistic service view
+SymphonyAI Apex AI ITSM Copilot,Optimizes task distribution across resources and geographies
+SymphonyAI Apex AI ITSM Copilot,Recommends solutions based on historical resolutions
+SymphonyAI Apex AI ITSM Copilot,Automatically analyzes issue data and correlates events to identify root causes
+SymphonyAI Apex AI ITSM Copilot,"Enhances user experience with 24/7 support and swift resolution, reducing downtime and increasing customer satisfaction"
+SymphonyAI Apex AI ITSM Copilot,"Enterprise Copilot speeds up fixes and automates tasks, offers omnichannel support (web, mobile, email, SMS, virtual agents, Slack, WhatsApp), predicts ticket category/workgroup/analyst, provides drag-and-drop workflow designer and reporting & analytics for KPIs"
+Zendesk AI Agents & Zendesk AI,Increase team productivity by about 20 % with a proactive copilot built into agent workflows that provides full customer information and recommended next steps for consistent service
+Zendesk AI Agents & Zendesk AI,"Streamline workflows, reduce agent workload and increase operational efficiency by over 15 %"
+Zendesk AI Agents & Zendesk AI,"Copilot turns every agent into a top performer by providing agents with insights, suggested replies and the ability to execute agent-approved actions"
+Fin AI Agent,Fin resolves complex queries across all channels and is evolving to take on specialized roles
+Fin AI Agent,"Fin uses retrieval-augmented generation to ensure accurate, reliable answers: it understands context, clarifies questions, uses advanced search to find the right information, applies guidance and policies and generates responses that avoid hallucinations"
+Fin AI Agent,"Fin uses custom LLMs for retrieval, reranking, summarization, escalation detection and understanding customer responses"
+Fin AI Agent,"Customize Fin’s tone, teach support knowledge and policies and configure how it handles complex tasks in over 45 languages"
+Fin AI Agent,Fin builds answers using relevant information from multiple knowledge sources to provide complete and accurate responses to complex questions
+Fin AI Agent,"Fin learns from help center articles, internal support content, PDFs and webpages via a centralized content library"
+Fin AI Agent,"Target answers to specific audiences based on plan, location or brand to ensure relevant content"
+Fin AI Agent,"Configure Fin’s personality and answer length (professional, friendly, humorous) through tone-of-voice settings"
+Fin AI Agent,Provide custom guidance instructions so Fin follows the correct policies and communication style
+Fin AI Agent,Use AI-powered suggestions to recommend content improvements based on unresolved conversations
+Fin AI Agent,Connect to external systems via data connectors so Fin can provide personalized answers and perform complex tasks
+Fin AI Agent,"Automate complex processes (e.g., order cancellation or subscription refund) by triggering tasks through natural language and participating in each step to resolve the query"
+Fin AI Agent,Plan to support procedures (document-style instructions) that combine natural language with deterministic controls and data connectors to ensure reliability
+Fin AI Agent,Automatically detect and resolve issues in more than 45 languages using real-time translation and unlocalized support content
+Fin AI Agent,"Read and understand images such as screenshots, invoices and error messages so customers can show rather than tell"
+Fin AI Agent,"Use simulations to test Fin with real questions, refine settings and run across real-world scenarios; Fin greets customers, answers questions, filters spam, handles calls and escalates to humans across email, voice, live chat, Slack, Discord and API"
+Ada AI Customer Service Agent,"Use a four-step improvement process—measure, test, coach and extend—to gain insights into conversations, simulate real conversations, train the AI agent with rules and multi-step processes and connect with customers in 50+ languages across channels"
+Ada AI Customer Service Agent,Employ playbooks to train the AI agent to follow standard operating procedures and resolve complex multi-step inquiries with built-in guardrails and accuracy
+Ada AI Customer Service Agent,"Automate customer interactions across chat, voice and email in more than 50 languages via pre-built integrations, delivering 24/7 support"
+Ada AI Customer Service Agent,"Sync with business systems via prebuilt integrations such as Contentful, Salesforce and Twilio for real-time information sharing"
+Ada AI Customer Service Agent,"Resolve up to 83 % of support issues automatically using generative AI to understand unique customer inquiries and provide relevant, safe and accurate resolutions while reducing costs and boosting customer satisfaction"
+Forethought SupportGPT & AI Agents,"AI agents are fully agentic: they not only understand intent but also reason, decide and take action using business policies to deliver end-to-end customer support"
+Forethought SupportGPT & AI Agents,"Agents are trained on your data to deliver accurate, personalized service"
+Forethought SupportGPT & AI Agents,"Multi-agent system collaborates across the customer journey to identify, solve, classify and support tasks without overhead"
+Forethought SupportGPT & AI Agents,"AI-surfaced insights detect knowledge gaps, generate help articles and optimize workflows"
+Forethought SupportGPT & AI Agents,"Omnichannel agents deliver personalized 24/7 support across chat, email and voice channels"
+Forethought SupportGPT & AI Agents,"Smarter ticket classification automatically tags tickets, prioritizes cases and routes them using prebuilt or custom models"
+Forethought SupportGPT & AI Agents,Agentic AI Copilot provides human agents with real-time insights and next-best actions without leaving the helpdesk
+Freddy AI Agent (Freshdesk/Freshservice),"AI takes care of busywork by resolving repetitive queries, providing resolution assistance and alerting on performance so teams can focus on customers"
+Freddy AI Agent (Freshdesk/Freshservice),"Pre-built workflows go live in minutes to auto-resolve up to 80 % of queries on chat, messaging and email"
+Freddy AI Agent (Freshdesk/Freshservice),"AI agents update records, process refunds, change subscription plans and handle everyday tasks via deep integrations with Shopify, Stripe, PayPal or custom systems"
+Freddy AI Agent (Freshdesk/Freshservice),"AI Copilot suggests replies, summarizes conversations and translates messages in real time within the agent workspace"
+Freddy AI Agent (Freshdesk/Freshservice),AI Insights provides proactive alerts and root-cause analysis before issues arise and allows agents to ask questions for instant insights
+Freddy AI Agent (Freshdesk/Freshservice),"AI security spots risky content, hides sensitive information and provides audit trails and encryption for data protection"
+Gorgias AI Agent,"Automate support workflows for e-commerce brands so customers can browse, buy and get support 24/7; the agent learns your brand, customers and workflows and acts as a shopping assistant pre-purchase and support agent post-purchase"
+Gorgias AI Agent,"Customize the agent’s voice and upload documents and rules to ensure accurate responses; handle repetitive tickets like order tracking, returns and FAQs; offer discounts and upsells based on inventory and shopper data and tailor replies to unique customer needs"
+Gorgias AI Agent,"Use a continuous improvement cycle that trains the agent, automates interactions, analyzes performance and optimizes results"
+Gorgias AI Agent,"Integrate with over 100 e-commerce tools so the agent can edit subscriptions, issue refunds and update shipping details using order data and the product catalog to become an active problem-solver"
+Gorgias AI Agent,"Check knowledge and permissions, analyze brand rules and real-time signals, classify ticket intent and urgency, and mirror brand voice to provide empathetic responses while escalating sensitive issues"
+Gorgias AI Agent,"Automate WISMO (Where’s my order?) tickets through real-time order tracking, handle exchanges and returns with personalized links, update orders and addresses and achieve high automation rates with low resolution times"
+Haptik AI Customer Service Agents,"Conversational AI agents understand, interact and enhance customer experiences like human agents but are infinitely scalable"
+Haptik AI Customer Service Agents,"Voice agents automate phone calls by expediting resolution through advanced intent detection, context-aware responses and multilingual fluency in over 100 languages"
+Haptik AI Customer Service Agents,Dynamic call routing routes calls based on actual need instead of rigid menus for faster resolution
+Haptik AI Customer Service Agents,"AI agents act as empathetic listeners, understanding and solving problems with care"
+Haptik AI Customer Service Agents,"Agent Builder allows experimenting with models like GPT, llama and Claude; omnichannel engagement deploys agents across web, chat, voice; multilingual support in 100+ languages"
+Haptik AI Customer Service Agents,"AI+Human collaboration provides seamless handoff to human agents; omnichannel agent inbox centralizes support; insights agent provides dashboards and metrics to optimize resources, track first-time resolution, customer satisfaction and NPS; automate insights into agent performance, user sentiment and SOP compliance and identify key trends"
+LimeChat Generative AI Agents,"Automate up to 90 % of queries with AI-powered GPT bots that make independent decisions and adapt responses, allowing human agents to focus on crucial issues"
+LimeChat Generative AI Agents,"Provide contextual response generation, sentiment analysis, knowledge-base utilization, multilingual support, proactive customer outreach, feedback collection, escalation handling and workflow optimization for e-commerce support"
+Help Scout AI,AI Drafts generates email replies in one click using past conversations and help articles to create on-brand responses ready for review and sending
+Help Scout AI,"AI Assist fixes spelling and grammar, makes text longer or shorter, adjusts tone (friendlier or more professional) and translates text into different languages"
+Help Scout AI,"AI Answers uses knowledge-base content to provide direct, conversational answers in chat, giving customers 24/7 self-service support and allowing easy escalation to human help"
+Help Scout AI,"AI features help customers get answers instantly, reduce repetitive work, increase team speed and effectiveness and give new team members confidence in their responses"
+Help Scout AI,"Automatically answer FAQs, draft or edit replies, summarize long conversation threads and translate replies into other languages"
+OneReach.ai Conversational AI & Agent Platform,"Automate tasks, workflows and processes to enable teams to focus on high-priority work, orchestrating AI agents that drive operational efficiency, improved customer satisfaction and faster time-to-value"
+OneReach.ai Conversational AI & Agent Platform,"Provide a complete AI agent runtime environment to design, train, test, deploy, monitor and orchestrate neurosymbolic AI agents; create, manage and orchestrate agents with logic, state, tools and communication; manage the lifecycle from design to deployment; handle real-time responsiveness with tool-calling, context switching, memory, collaboration and system integration; manage distributed agent workflows where agents communicate, delegate tasks and access IT systems; and deliver enterprise-grade security and privacy"
+LangChain Agents,"Provide visibility and control to see every step of an agent and steer it to accomplish tasks as intended, enabling fast iteration across build, test and deploy loops with durable performance and model neutrality"
+LangChain Agents,Offer tracing to give clear visibility into agent steps for debugging
+LangChain Agents,"Include evaluation tools to build test sets, score agent performance and iterate to improve quality"
+LangChain Agents,"Provide deployment infrastructure with memory, auto-scaling and security for long-running agent workflows"
+LangGraph Agent Orchestration,"Puts users in control with low-level primitives to build custom agent workflows and orchestrate multi-agent systems, offering visibility and control, fast iteration, durable performance and model neutrality"
+CrewAI Multi-Agent Framework,Streamline workflows across industries with powerful AI agents and build and deploy automated workflows using any LLM and cloud platform
+CrewAI Multi-Agent Framework,"Start building multi-agent automations quickly using CrewAI’s framework or UI Studio, whether coding from scratch or leveraging no-code tools and templates"
+CrewAI Multi-Agent Framework,"Work in the cloud, self-hosted or locally by deploying CrewAI on your own infrastructure or using your preferred cloud service to maintain full control"
+CrewAI Multi-Agent Framework,"Easily integrate with all apps and empower teams to build automations without coding, streamlining processes across departments"
+CrewAI Multi-Agent Framework,Use a simple management UI to manage AI agents with ease while keeping humans in the loop for feedback and control
+CrewAI Multi-Agent Framework,"Gain complete visibility by tracking the quality, efficiency and ROI of AI agents and obtaining detailed insights into their impact to optimize and justify automation investments"
+OpenAI Agents SDK,"Agents are systems that intelligently accomplish tasks—from simple goals to complex, open-ended workflows; OpenAI provides models with agentic strengths, a toolkit for agent creation and deploys, and dashboard features for monitoring and optimizing agents"
+OpenAI Agents SDK,Embed your agent workflow in your product using ChatKit—a customizable UI component where you paste your workflow ID to embed the agent
+OpenAI Agents SDK,Run ChatKit on your own infrastructure with Advanced ChatKit to use widgets and connect to any agentic backend via SDKs for greater customization
+OpenAI Agents SDK,"Use the OpenAI platform to evaluate agent performance and automate improvements through Evals features (full evaluation platform), trace grading (develop, deploy, monitor and improve agents) and datasets (build and track evals)"
+OpenAI Agents SDK,Build voice agents that understand audio and respond in natural language as described in the voice-agents documentation (not supported in Agent Builder)
+BrazeAI,Generate individualized message content at the moment of send using real-time customer context.
+BrazeAI,Build complete cross-channel campaigns from a stated marketing objective.
+BrazeAI,"Write personalization logic for email, push, and in-app messages."
+BrazeAI,"Create email, in-app message, and push notification content for campaigns."
+BrazeAI,Configure and deploy autonomous marketing agents without technical support.
+BrazeAI,Make send-time decisions for individual user journeys against defined goals.
+BrazeAI,Interpret customer engagement data against brand-defined guardrails.
+BrazeAI,Construct multi-step user journeys inside the engagement platform.
+BrazeAI,Answer marketer questions about campaign setup and platform configuration.
+BrazeAI,Adapt campaign content in response to live customer behavior.
+BrazeAI,"Apply booking history, preferences, and language to message selection."
+BrazeAI,Reduce campaign build time by generating assets in the dashboard.
+Blueshift Launchpad,Plan a complete marketing campaign from a single stated objective.
+Blueshift Launchpad,Produce audience definitions and segmentation logic for a campaign.
+Blueshift Launchpad,Generate creative variations and message drafts for review.
+Blueshift Launchpad,Build multi-step customer journeys and campaign flows.
+Blueshift Launchpad,Propose follow-up actions and test plans after a campaign launches.
+Blueshift Launchpad,Run funnel reviews and metric trend analysis from natural-language questions.
+Blueshift Launchpad,Check data schema and availability without writing SQL.
+Blueshift Launchpad,Surface a built campaign for human approval before launch.
+Blueshift Launchpad,Segment audiences using customer data held in the engagement platform.
+Blueshift Launchpad,Design and launch marketing experiments at scale.
+Blueshift Launchpad,Report campaign performance through a conversational interface.
+Blueshift Launchpad,Allocate campaign effort against measured goal metrics.
+Microsoft Agent Framework,Build AI agents that process inputs and call external tools.
+Microsoft Agent Framework,Connect agents to MCP servers for tool integration.
+Microsoft Agent Framework,Orchestrate multi-agent workflows through explicit execution paths.
+Microsoft Agent Framework,Plan and track multi-step tasks with a long-running agent harness.
+Microsoft Agent Framework,Manage conversation state across multi-turn agent sessions.
+Microsoft Agent Framework,Provide agents with persistent memory through context providers.
+Microsoft Agent Framework,Intercept and filter agent actions using middleware.
+Microsoft Agent Framework,Integrate agents with multiple model providers and hosted services.
+Microsoft Agent Framework,Emit telemetry and observability data for running agents.
+Microsoft Agent Framework,Compact context automatically during extended agent runs.
+Microsoft Agent Framework,Route approval requests for tool use to a human reviewer.
+Microsoft Agent Framework,Connect agent outputs to evaluation services for quality checks.
+Enrich Labs,Publish social media posts across multiple platforms.
+Enrich Labs,Launch paid advertising campaigns on Google and Meta.
+Enrich Labs,Build email marketing flows and sequences.
+Enrich Labs,Write and publish SEO content to content management systems.
+Enrich Labs,Schedule content at optimal times across channels.
+Enrich Labs,Monitor social media performance and engagement metrics.
+Enrich Labs,Read web analytics data and extract insights.
+Enrich Labs,Adjust campaign budgets based on performance results.
+Enrich Labs,Research audience behavior and the competitive landscape.
+Enrich Labs,Generate on-brand copy for various content formats.
+Enrich Labs,Manage abandoned cart email sequences.
+Enrich Labs,Track keyword rankings and search visibility.
+Enrich Labs,Create social carousel posts and captions.
+Enrich Labs,Build welcome series email campaigns.
+Enrich Labs,Rebalance advertising spend daily against return on ad spend.
+Enrich Labs,Apply brand voice corrections from reviewer feedback.
+Enrich Labs,Generate weekly performance reports in plain language.
+Enrich Labs,Monitor competitor launches and pricing changes.
