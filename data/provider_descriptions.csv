@@ -1,0 +1,27 @@
+provider,description
+Salesforce Agentforce,"Campaign creation, audience targeting, content generation, customer journey building, campaign performance analysis and recommendations"
+HubSpot Agent Hub,"Campaign and content agents for planning, execution, and nurture messaging"
+Lyzr,Marketing and sales agents with enterprise agent governance
+Gumloop,"Marketing workflows (campaign setup, content ops, targeting)"
+ZBrain,"Governance-first agents for sales, support, and compliance workflows"
+Relevance AI,"Go-to-market agents for prospect research, lead qualification, and outbound personalization"
+Zapier,AI agent governance and workflow automation across models and applications
+Albert.ai,"Campaign execution, media buying, and performance optimization"
+NexusGPT,"No-code enterprise agents for customer support, sales, research, and marketing"
+aiXplain,"Agent development with governance, policy enforcement, and audit controls"
+AirOps,"AI discovery strategy, content production, and brand visibility measurement in AI search"
+Beam AI,"Enterprise process agents for order, invoice, document, and back-office workflows"
+Conversica,"Lead engagement, qualification, and nurturing automation"
+Dify,General LLM application platform with agentic workflows
+IBM watsonx.ai,"Model platform for predictive, generative, and agentic enterprise applications"
+Notion AI,Content creation and organization for marketing teams
+Botsonic,Conversational marketing and lead generation
+Replit,"Websites, landing pages, and applications built from natural-language prompts"
+Google Cloud Vertex AI (Gemini Enterprise Agent Platform),Enterprise model platform with agent building and deployment
+CrewAI,Enterprise agent build and runtime platform
+LangChain (LangGraph),Agent runtime and orchestration framework with evaluation tooling
+Microsoft Agent Framework,Agent and multi-agent workflow framework; successor to Semantic Kernel
+LlamaIndex,Agentic document processing and extraction for knowledge workflows
+Clay,Sales prospecting and lead enrichment
+Microsoft Dynamics 365 Customer Insights,Unified customer data platform with agentic AI for personalized multi-channel journeys
+Pega Customer Decision Hub,Real-time decisioning and next-best-action recommendations across customer channels

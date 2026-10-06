@@ -26,10 +26,15 @@ python src/make_tables.py
 | `figures/best_match_score_distribution_openai.png` | Appendix D — deployment-score distribution |
 | `tables/thematic_summary.tex` | Table 1 — tasks by deployment-score tercile |
 | `tables/onet_occupations.tex` | Appendix A — occupations by sub-cluster |
+| `tables/providers.tex` | Appendix B — provider inventory |
 | `tables/matched_providers.tex` | Providers selected as a best match, with task counts |
 
 Figure filenames match the `\includegraphics` paths in the manuscript, so
-`figures/` can be copied straight into the LaTeX project.
+`figures/` can be copied straight into the LaTeX project. The generated tables
+reproduce the manuscript's own LaTeX layout — `tabularx` with `multirow` and
+`makecell` for Table 1, `longtable` for the provider inventory — so they can be
+pasted in directly. They need `booktabs`, `longtable`, `array`, `tabularx`,
+`multirow` and `makecell` in the preamble.
 
 ## Method
 
@@ -50,6 +55,7 @@ data/
   ai_agent_task_solved_summary_combined.csv   provider task descriptions
   agent_task_best_matches_openai_mkt.csv      the 605 tasks with deployment scores (analysis input)
   thematic_categories.csv                     Table 1 category names
+  provider_descriptions.csv                   Appendix B provider inventory
 src/
   config.py            paths, the 0.5 cutoff, the Core filter
   make_figures.py      Fig. 2, Fig. 3, Appendix D
