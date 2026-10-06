@@ -1,56 +1,4 @@
 service_name,task_involved
-GPT Nexus,Research companies and craft tailored sales pitch presentations using PowerPoint.
-GPT Nexus,Search and validate business emails based on names or company information.
-GPT Nexus,Gather and analyze recent news about companies or individuals for business insights.
-GPT Nexus,Identify peer companies and competitors to support strategic positioning and analysis.
-GPT Nexus,Locate LinkedIn profiles of companies and their employees for business development.
-GPT Nexus,Conduct structured interviews and candidate assessments using scripted workflows.
-GPT Nexus,Retrieve and manage candidate contact information and interview process details.
-GPT Nexus,Research competitors and design Facebook advertisements based on competitive insights.
-GPT Nexus,Scrape and analyze Facebook ads and Instagram profiles from company pages.
-GPT Nexus,Generate custom images for use in social media advertising campaigns.
-GPT Nexus,Compile business intelligence reports by researching company data and market context.
-aiXplain,Analyze business data using natural language queries to generate operational insights and recommendations.
-aiXplain,Monitor multilingual media channels in real time to track sentiment and spot market trends.
-aiXplain,"Automate RFP discovery, proposal writing, and submission processes to improve efficiency and win rates."
-aiXplain,Design and deploy AI agents using pre-built agentic components for faster development and performance optimization.
-aiXplain,Create multi-step execution plans to solve complex problems using AI planning agents.
-aiXplain,Match business assets with suitable use cases through automated criteria-based selection.
-aiXplain,Develop AI agent solutions from text descriptions using intelligent architect agents.
-aiXplain,Coordinate multiple agents and route tasks to the appropriate large language models.
-aiXplain,Ensure process and output compliance through quality inspection agents.
-aiXplain,Protect sensitive business data using access control agents and regulatory compliance enforcement.
-aiXplain,"Automate translation of complex documents with context-aware, terminology-validated AI agents."
-AirOps,Create on-brand marketing content using AI combined with human oversight and brand guidelines.
-AirOps,Refresh and optimize website content based on real-time SEO performance data and competitor insights.
-AirOps,Develop data-driven content strategies using AI to analyze search trends and market opportunities.
-AirOps,Automate creation of curated e-commerce collections based on product relevance and seasonal demand.
-AirOps,Generate SEO-optimized content for e-commerce and blog pages with consistent brand alignment.
-AirOps,"Automatically categorize and tag products by age range, occasion, or learning skills for better discovery."
-AirOps,Generate and maintain optimized product detail pages at scale to improve search visibility.
-AirOps,Streamline content operations by integrating content workflows directly into CMS platforms like Shopify or Webflow.
-AirOps,"Produce meta titles, descriptions, and structured content aligned with SEO best practices."
-AirOps,Improve traffic and engagement by updating large-scale blog and tools content with automated workflows.
-AirOps,Reduce manual labor and errors in product curation and description creation for large retail catalogs.
-AirOps,Maintain editorial quality across high-volume content using style and tone guidelines with human oversight.
-Beam AI,Handle customer subscription requests and account updates.
-Beam AI,Respond to inquiries regarding order status and tracking.
-Beam AI,Manage and process product return and exchange requests.
-Beam AI,Coordinate appointments and scheduling for customers.
-Beam AI,"Extract and process sales order, invoice, lab, and medical report data."
-Beam AI,"Categorize incoming emails, forward them appropriately, and send automated replies."
-Beam AI,Schedule interviews and manage candidate appointment logistics.
-Beam AI,Perform data entry tasks including catalog updates and document extraction.
-Beam AI,"Manage billing inquiries, renewals, and support for subscriptions."
-Beam AI,"Send payment reminders, process payments, and monitor financial transactions."
-Beam AI,"Manage loyalty programs, process customer feedback, and handle FAQs."
-Beam AI,Check inventory levels and update product catalogs.
-Beam AI,Generate sales proposals and verify vendor credentials for procurement tasks.
-Beam AI,Process supply chain tasks such as order processing and fulfillment.
-Beam AI,List and quality-assure new products for digital storefronts.
-Beam AI,"Draft and format RFP responses, review documents, and check compliance."
-Beam AI,Collect and curate content for social media channels.
-Beam AI,Create SEO-optimized content and extract ID or document data for marketing purposes.
 Conversica,"Increase lead volume, velocity, and quality through two-way conversational engagement."
 Conversica,Deliver personalized one-to-one marketing at scale to improve ROI and maximize marketing spend.
 Conversica,Automate creation and delivery of personalized email campaigns to reduce team workload.
@@ -282,37 +230,6 @@ HubSpot Breeze,Use AI buyer intent data to gain visibility into high-intent pros
 HubSpot Breeze,Prioritize leads and tailor outreach to drive conversions in targeted industries.
 HubSpot Breeze,Transform website visitor engagement into actionable insights using AI buyer intent.
 HubSpot Breeze,Refine content and advertising strategies by segmenting audiences based on industry and company size.
-Lyzr,Manage multi-channel marketing campaigns seamlessly.
-Lyzr,Automate campaign scheduling and execution.
-Lyzr,Track and optimize campaign performance.
-Lyzr,Personalize campaigns for specific audiences.
-Lyzr,"Create engaging blogs, newsletters, and ads effortlessly."
-Lyzr,Generate SEO-optimized blogs and articles.
-Lyzr,Draft newsletters and ad copies in minutes.
-Lyzr,Maintain consistent brand tone across content.
-Lyzr,"Handle campaigns, SEO, analytics, and content creation to drive results."
-Lyzr,Monitor brand mentions and trends online.
-Lyzr,Draft and format PR content efficiently.
-Lyzr,Create compelling ad copies for campaigns.
-Lyzr,Automate post scheduling and insights tracking.
-Lyzr,Analyze customer demographics and behavior.
-Lyzr,Track competitor strategies in real time.
-Relevance AI,Analyze customer data.
-Relevance AI,Personalize content.
-Relevance AI,Optimize campaigns.
-Relevance AI,Schedule posts.
-Relevance AI,Engage with prospects.
-Relevance AI,Measure performance.
-Relevance AI,Automate content creation.
-Relevance AI,Manage social media.
-Relevance AI,Optimize email campaigns.
-Relevance AI,Segment audiences.
-Relevance AI,Target ads.
-Relevance AI,Perform competitive analysis.
-Relevance AI,Track performance metrics.
-Relevance AI,Score leads.
-Relevance AI,Map customer journeys.
-Relevance AI,Generate personalized recommendations.
 Albert AI,Develop proactive creative insights and messaging recommendations for digital marketing strategies.
 Albert AI,Execute multivariate testing of campaign variables and optimize budget spending autonomously.
 Albert AI,Utilize predictive analytics and deep learning for autonomous media buying and creative optimization.
@@ -337,38 +254,6 @@ Zapier,"Enable unlimited flexibility and creativity in automation, empowering in
 Zapier,"Improve marketing spend efficiency by setting precise conditions for sending conversion data to Google, reducing expenses significantly."
 Zapier,Automate repetitive lead generation processes to reduce cost per lead by 20%.
 Zapier,"Streamline reporting processes to save account managers time and reduce stress, freeing up 9+ hours per month for client work."
-ZBrain,Automatically categorize backlinks based on quality and relevance to enhance SEO strategies.
-ZBrain,Provide actionable insights and recommendations for acquiring high-quality backlinks.
-ZBrain,Identify trending keywords and audience interests to generate engaging blog topics.
-ZBrain,Streamline content creation by automating blog topic ideation based on current trends.
-ZBrain,"Assess marketing content for tone, style, and adherence to brand guidelines to ensure consistency."
-ZBrain,Provide actionable recommendations to align marketing content with the brand's voice.
-ZBrain,Automatically classify news articles and press releases into relevant categories for competitive analysis.
-ZBrain,Generate concise summaries of competitor activities and industry trends.
-ZBrain,"Automate the gathering, analysis, and structuring of research data to produce citation-backed articles."
-ZBrain,Generate structured research outlines and organized content from credible sources.
-ZBrain,Classify and evaluate customer feedback into sentiments to drive improvements in customer experience.
-ZBrain,Enable automated sentiment analysis across multiple channels for actionable customer insights.
-ZBrain,Generate personalized email content tailored to customer segments to enhance engagement and conversions.
-ZBrain,"Leverage customer segmentation data for automated, targeted email campaign personalization."
-ZBrain,Automate the verification of factual information in documents using real-time web search.
-ZBrain,Extract and validate data points to ensure content accuracy and credibility.
-ZBrain,Automatically summarize comprehensive market reports into actionable insights for strategic decision-making.
-ZBrain,Distill large datasets into key market trends to support product launch planning.
-ZBrain,"Transform marketing operations by automating tasks such as SEO optimization, content creation, and customer experience management."
-ZBrain,"Provide deep consumer insights, competitive analysis, and strategic support to enhance marketing strategies and brand positioning."
-ZBrain,Automatically draft well-structured press releases that align with brand voice and tone.
-ZBrain,Organize and structure key information for press releases to streamline media outreach.
-ZBrain,Reduce manual drafting workload by generating timely and accurate press release content.
-ZBrain,Incorporate natural language feedback to continuously improve press release quality.
-ZBrain,Automatically generate tailored social media posts based on user-uploaded content and brand guidelines.
-ZBrain,"Optimize social media posts for specific platforms with appropriate hashtags, emojis, and formatting."
-ZBrain,Ensure brand consistency and audience engagement across all social media channels.
-ZBrain,Leverage user feedback to refine and adapt social media content generation over time.
-ZBrain,"Automatically classify social media mentions into positive, negative, or neutral sentiment categories."
-ZBrain,Provide real-time sentiment analysis of competitor and brand discussions on social media.
-ZBrain,Generate actionable insights from social media sentiment data for strategic marketing adjustments.
-ZBrain,Support proactive brand management by monitoring emerging trends and shifts in public sentiment.
 Salesforce Agentforce,"Automate tax inquiries to provide instant, personalized support during tax season."
 Salesforce Agentforce,Deploy a digital workforce to handle common tax and accounting questions and schedule follow-ups.
 Salesforce Agentforce,Automate roadside assistance inquiries and streamline claims communication for AAA Washington.
@@ -749,3 +634,103 @@ Enrich Labs,Rebalance advertising spend daily against return on ad spend.
 Enrich Labs,Apply brand voice corrections from reviewer feedback.
 Enrich Labs,Generate weekly performance reports in plain language.
 Enrich Labs,Monitor competitor launches and pricing changes.
+AirOps,Set AI discovery strategy aligned with business goals.
+AirOps,Measure brand share of voice among target buyers.
+AirOps,Identify which competitors lead in relevant categories.
+AirOps,Determine the highest-impact channels for AI discovery.
+AirOps,Build marketing funnel strategies across identified channels.
+AirOps,Research content opportunities surfaced by AI agents.
+AirOps,Publish content optimized for AI search results.
+AirOps,Refresh existing content based on market changes.
+AirOps,Track performance results from each campaign iteration.
+AirOps,Adjust content strategy as market conditions shift.
+AirOps,Execute content production at scale.
+AirOps,Govern brand messaging consistency across channels.
+AirOps,Connect marketing initiatives to pipeline metrics.
+AirOps,Link marketing activity to revenue outcomes.
+Beam AI,Handle customer subscription requests.
+Beam AI,Provide order status information to buyers.
+Beam AI,Process product return requests.
+Beam AI,Extract data from sales orders.
+Beam AI,Extract information from invoices.
+Beam AI,Review documents for RFP compliance.
+Beam AI,Verify vendor qualifications.
+Beam AI,Draft and format proposals.
+Beam AI,Create order confirmations.
+Beam AI,Monitor financial transactions for suspicious activity.
+Beam AI,Process payment reminders.
+Beam AI,Manage customer loyalty programs.
+Beam AI,Calculate payroll amounts.
+Beam AI,Score resumes against role requirements.
+Beam AI,Schedule interviews with candidates.
+Beam AI,Coordinate appointment scheduling.
+Relevance AI,"Research prospects from web, news, hiring and funding data."
+Relevance AI,Enrich account records in the CRM with external data.
+Relevance AI,Qualify inbound leads and nurture them toward a demo.
+Relevance AI,Prepare briefs before client meetings from call and calendar data.
+Relevance AI,Log call notes and update CRM stages after a call.
+Relevance AI,Send follow-up materials such as pricing documents.
+Relevance AI,Book qualified meetings into representative calendars.
+Relevance AI,Personalize multi-channel outbound sequences.
+Relevance AI,Escalate at-risk renewals to customer success.
+Relevance AI,Review deals against qualification criteria and flag risks.
+Relevance AI,Draft tailored proposals and quotes.
+Relevance AI,Roll up pipeline forecasts from deal signals.
+Relevance AI,Triage support tickets by category and priority.
+Relevance AI,Review contracts for compliance and risk.
+ZBrain,Segment prospects for targeted outreach.
+ZBrain,Score leads for qualification.
+ZBrain,Generate executive summaries of deals.
+ZBrain,Identify issues within sales opportunities.
+ZBrain,Suggest next best actions in a sales process.
+ZBrain,Craft personalized marketing campaigns.
+ZBrain,Decode audience sentiment for insight.
+ZBrain,Suggest responses to support tickets.
+ZBrain,Route customer inquiries to the right team.
+ZBrain,Provide multilingual assistance across channels.
+ZBrain,Resolve customer inquiries autonomously.
+ZBrain,Perform compliance checks automatically.
+ZBrain,Screen resumes to identify candidates.
+ZBrain,Evaluate supplier performance metrics.
+aiXplain,Read contracts and extract relevant information.
+aiXplain,Use integrated tools to complete delegated work.
+aiXplain,Flag items exceeding specified thresholds.
+aiXplain,Check supplier invoices against contract terms.
+aiXplain,Create new agents from plain-language descriptions.
+aiXplain,Route tasks to appropriate models or specialists.
+aiXplain,Inspect inputs and outputs for personal data exposure.
+aiXplain,Detect and block unsafe content.
+aiXplain,Identify hallucinations in generated responses.
+aiXplain,Enforce access permissions across teams.
+aiXplain,Monitor agent performance for model drift.
+aiXplain,Hold customer communications for approval.
+aiXplain,Escalate high-value transactions for human review.
+aiXplain,Generate audit trails documenting tool usage.
+Lyzr,Generate pipeline leads and qualify prospects.
+Lyzr,Create personalized marketing content at scale.
+Lyzr,Orchestrate multi-channel marketing campaigns.
+Lyzr,Accelerate deal progression through sales workflows.
+Lyzr,Gather prospect research and account intelligence.
+Lyzr,Compose targeted outreach messages for campaigns.
+Lyzr,Resolve customer support tickets automatically.
+Lyzr,Detect and prevent fraudulent transactions.
+Lyzr,Manage procurement sourcing and supplier negotiation.
+Lyzr,Review contracts for compliance requirements.
+Lyzr,Screen candidates in hiring workflows.
+Lyzr,Generate compliance audit trails.
+Lyzr,Personalize e-commerce product discovery.
+Lyzr,Deflect routine customer inquiries via chat.
+Lyzr,Convert prospects through guided interactions.
+GPT Nexus,Create custom AI agents without coding.
+GPT Nexus,Automate customer support interactions.
+GPT Nexus,Streamline sales process workflows.
+GPT Nexus,Conduct research and perform data analysis.
+GPT Nexus,Manage marketing campaign execution and optimization.
+GPT Nexus,Optimize business processes across operations.
+GPT Nexus,Deploy agents on a website for customer engagement.
+GPT Nexus,Connect agents to messaging channels such as WhatsApp.
+GPT Nexus,Deploy agents to Slack for team collaboration.
+GPT Nexus,Integrate agents with Microsoft Teams.
+GPT Nexus,Execute autonomous task planning and completion.
+GPT Nexus,Incorporate custom knowledge into an agent.
+GPT Nexus,Access pre-built agents from a marketplace.
